@@ -55,3 +55,34 @@
 [I 15:31:59.026 NotebookApp] 302 GET / (192.168.0.136) 1.220000ms
 [I 15:31:59.047 NotebookApp] 302 GET /tree? (192.168.0.136) 1.100000ms
 [I 15:32:32.409 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.0.136) 2.070000ms
+[I 15:33:23.040 NotebookApp] Creating new notebook in 
+[I 15:33:24.438 NotebookApp] Kernel started: b00a0601-7678-4d44-aa41-70db2f7ede51, name: python3
+[I 15:35:31.210 NotebookApp] Saving file at /mongo-load.ipynb
+[W 15:35:37.123 NotebookApp] Notebook data-downloader.ipynb is not trusted
+[I 15:35:37.384 NotebookApp] Kernel started: fca4822a-0499-4aff-a6b7-ed5d2638651f, name: python3
+[I 15:35:45.043 NotebookApp] Starting buffering for fca4822a-0499-4aff-a6b7-ed5d2638651f:9531d94c94704761b09d86824cb5e35a
+[W 15:35:47.346 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:35:47.715 NotebookApp] Kernel started: ad555782-6b88-4dca-b317-06a2bbd278bb, name: python3
+[I 15:35:54.005 NotebookApp] Starting buffering for ad555782-6b88-4dca-b317-06a2bbd278bb:ebc3bd95bca4451281773ebe58a65f60
+[W 15:35:57.029 NotebookApp] Notebook ml4f-boostedtrees.ipynb is not trusted
+[I 15:35:57.349 NotebookApp] Kernel started: fd0bbdc3-7843-4b48-a12b-507472540801, name: python3
+[I 15:37:24.448 NotebookApp] Saving file at /mongo-load.ipynb
+[I 15:39:24.448 NotebookApp] Saving file at /mongo-load.ipynb
+[I 15:41:24.517 NotebookApp] Saving file at /mongo-load.ipynb
+[I 15:43:24.450 NotebookApp] Saving file at /mongo-load.ipynb
+[I 15:45:24.469 NotebookApp] Saving file at /mongo-load.ipynb
+[I 15:49:24.989 NotebookApp] Saving file at /mongo-load.ipynb
+[W 15:49:29.942 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:51:24.456 NotebookApp] Saving file at /mongo-load.ipynb
+[I 15:53:24.450 NotebookApp] Saving file at /mongo-load.ipynb
+[I 15:57:24.449 NotebookApp] Saving file at /mongo-load.ipynb
+[I 15:59:26.568 NotebookApp] Saving file at /mongo-load.ipynb
+[I 16:01:24.433 NotebookApp] Saving file at /mongo-load.ipynb
+[I 16:03:24.444 NotebookApp] Saving file at /mongo-load.ipynb
+[I 16:05:24.435 NotebookApp] Saving file at /mongo-load.ipynb
+[I 16:13:29.448 NotebookApp] Saving file at /mongo-load.ipynb
+[I 16:15:24.441 NotebookApp] Saving file at /mongo-load.ipynb
+[I 16:19:24.470 NotebookApp] Saving file at /mongo-load.ipynb
+[I 16:21:24.470 NotebookApp] Saving file at /mongo-load.ipynb
+[I 16:23:24.440 NotebookApp] Saving file at /mongo-load.ipynb
+[I 16:24:22.776 NotebookApp] Saving file at /mongo-load.ipynb
