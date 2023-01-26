@@ -2056,3 +2056,230 @@ kernel 85648724-be47-4772-9b70-b69b6e142d5a restarted
       File "/home/dcai/anaconda3/lib/python3.8/site-packages/jupyter_client/manager.py", line 597, in interrupt_kernel
         raise RuntimeError("Cannot interrupt kernel. No kernel is running!")
     RuntimeError: Cannot interrupt kernel. No kernel is running!
+[W 2023-01-25 15:17:40.605 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-01-25 15:17:40.605 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-01-25 15:17:40.605 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-01-25 15:17:40.605 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-01-25 15:17:40.611 LabApp] JupyterLab extension loaded from /home/dcai/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-01-25 15:17:40.611 LabApp] JupyterLab application directory is /home/dcai/anaconda3/share/jupyter/lab
+[I 15:17:40.614 NotebookApp] Serving notebooks from local directory: /home/dcai/jupyter
+[I 15:17:40.614 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 15:17:40.614 NotebookApp] http://dcai:8888/?token=080c5c9ee9e20472c224416bab98f1d227c0b5b8d5aad8b3
+[I 15:17:40.615 NotebookApp]  or http://127.0.0.1:8888/?token=080c5c9ee9e20472c224416bab98f1d227c0b5b8d5aad8b3
+[I 15:17:40.615 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:17:40.617 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/dcai/.local/share/jupyter/runtime/nbserver-15110-open.html
+    Or copy and paste one of these URLs:
+        http://dcai:8888/?token=080c5c9ee9e20472c224416bab98f1d227c0b5b8d5aad8b3
+     or http://127.0.0.1:8888/?token=080c5c9ee9e20472c224416bab98f1d227c0b5b8d5aad8b3
+[W 15:17:52.353 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:17:52.686 NotebookApp] Kernel started: 45dc3097-bf38-4c3e-aea2-058664d5771e, name: python3
+[C 17:13:15.767 NotebookApp] received signal 15, stopping
+[I 17:13:15.768 NotebookApp] Shutting down 1 kernel
+[I 17:13:15.870 NotebookApp] Kernel shutdown: 45dc3097-bf38-4c3e-aea2-058664d5771e
+[I 17:13:15.870 NotebookApp] Shutting down 0 terminals
+[W 2023-01-25 19:54:51.695 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-01-25 19:54:51.695 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-01-25 19:54:51.695 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-01-25 19:54:51.695 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-01-25 19:54:51.703 LabApp] JupyterLab extension loaded from /home/dcai/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-01-25 19:54:51.703 LabApp] JupyterLab application directory is /home/dcai/anaconda3/share/jupyter/lab
+[I 19:54:51.707 NotebookApp] Serving notebooks from local directory: /home/dcai/jupyter
+[I 19:54:51.707 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 19:54:51.707 NotebookApp] http://dcai:8888/?token=4dce32a5430833935dcc0f3d35f33f74c2d544f59aa1e1a8
+[I 19:54:51.707 NotebookApp]  or http://127.0.0.1:8888/?token=4dce32a5430833935dcc0f3d35f33f74c2d544f59aa1e1a8
+[I 19:54:51.707 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:54:51.710 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/dcai/.local/share/jupyter/runtime/nbserver-246932-open.html
+    Or copy and paste one of these URLs:
+        http://dcai:8888/?token=4dce32a5430833935dcc0f3d35f33f74c2d544f59aa1e1a8
+     or http://127.0.0.1:8888/?token=4dce32a5430833935dcc0f3d35f33f74c2d544f59aa1e1a8
+[W 19:55:02.653 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 19:55:03.075 NotebookApp] Kernel started: e96412b2-701a-45df-93e9-ce0040e85234, name: python3
+[I 20:18:49.980 NotebookApp] Starting buffering for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[I 20:18:53.842 NotebookApp] Restoring connection for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[W 20:20:23.846 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 20:20:28.849 NotebookApp] Starting buffering for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[I 21:11:28.447 NotebookApp] Restoring connection for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[I 21:24:07.190 NotebookApp] Starting buffering for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[I 21:24:10.731 NotebookApp] Restoring connection for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[W 21:25:40.734 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 21:25:45.735 NotebookApp] Starting buffering for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[I 23:26:59.051 NotebookApp] Restoring connection for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[W 23:28:29.054 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 23:28:34.057 NotebookApp] Starting buffering for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[I 03:27:45.507 NotebookApp] Restoring connection for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[W 03:29:15.508 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 03:29:20.511 NotebookApp] Starting buffering for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[I 07:28:40.361 NotebookApp] Restoring connection for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[W 07:30:10.363 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 07:30:15.365 NotebookApp] Starting buffering for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[I 09:09:14.653 NotebookApp] Restoring connection for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[I 09:09:27.827 NotebookApp] Starting buffering for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[I 09:09:29.048 NotebookApp] Restoring connection for e96412b2-701a-45df-93e9-ce0040e85234:fe97fee8100b4fa5b1e4e0ec78f6e667
+[I 10:28:34.181 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 10:28:34.183 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 10:52:33.465 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 10:52:33.466 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[W 10:52:46.977 NotebookApp] Notebook mongo-load.ipynb is not trusted
+[I 10:52:47.151 NotebookApp] Kernel started: 86ce43ed-bd76-4f30-9600-b12a2b5db24b, name: python3
+[I 10:53:06.267 NotebookApp] Starting buffering for 86ce43ed-bd76-4f30-9600-b12a2b5db24b:220f952eedd4488a87df379ee9832e80
+[W 10:53:10.676 NotebookApp] Notebook data-downloader.ipynb is not trusted
+[I 10:53:10.961 NotebookApp] Kernel started: 7890569f-546c-4204-802a-2d45dcc2fd2a, name: python3
+[I 10:54:33.425 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 10:54:33.426 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[W 10:55:37.936 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 10:55:38.032 NotebookApp] Kernel started: 83112c44-92c0-40e1-8171-c6615497a95c, name: python3
+[I 10:55:43.036 NotebookApp] Starting buffering for 83112c44-92c0-40e1-8171-c6615497a95c:263320702b874c8b9e95193535123968
+[I 10:56:33.385 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 10:56:33.387 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 10:58:33.375 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 10:58:33.375 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 11:00:33.361 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 11:00:33.362 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 11:02:33.366 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 11:02:33.367 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 11:04:33.376 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 11:04:33.377 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 11:06:34.054 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 11:06:34.056 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 11:07:27.076 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel e96412b2-701a-45df-93e9-ce0040e85234 restarted
+Traceback (most recent call last):
+  File "/home/dcai/anaconda3/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/dcai/anaconda3/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel_launcher.py", line 16, in <module>
+    app.launch_new_instance()
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/traitlets/config/application.py", line 844, in launch_instance
+    app.initialize(argv)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/traitlets/config/application.py", line 87, in inner
+    return method(app, *args, **kwargs)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 567, in initialize
+    self.init_sockets()
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 271, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 218, in _bind_socket
+    return self._try_bind_socket(s, port)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 194, in _try_bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/zmq/sugar/socket.py", line 173, in bind
+    super().bind(addr)
+  File "zmq/backend/cython/socket.pyx", line 542, in zmq.backend.cython.socket.Socket.bind
+  File "zmq/backend/cython/checkrc.pxd", line 28, in zmq.backend.cython.checkrc._check_rc
+zmq.error.ZMQError: Address already in use
+[I 11:07:30.111 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+kernel e96412b2-701a-45df-93e9-ce0040e85234 restarted
+Traceback (most recent call last):
+  File "/home/dcai/anaconda3/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/dcai/anaconda3/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel_launcher.py", line 16, in <module>
+    app.launch_new_instance()
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/traitlets/config/application.py", line 844, in launch_instance
+    app.initialize(argv)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/traitlets/config/application.py", line 87, in inner
+    return method(app, *args, **kwargs)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 567, in initialize
+    self.init_sockets()
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 271, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 218, in _bind_socket
+    return self._try_bind_socket(s, port)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 194, in _try_bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/zmq/sugar/socket.py", line 173, in bind
+    super().bind(addr)
+  File "zmq/backend/cython/socket.pyx", line 542, in zmq.backend.cython.socket.Socket.bind
+  File "zmq/backend/cython/checkrc.pxd", line 28, in zmq.backend.cython.checkrc._check_rc
+zmq.error.ZMQError: Address already in use
+[I 11:07:33.117 NotebookApp] KernelRestarter: restarting kernel (3/5), keep random ports
+kernel e96412b2-701a-45df-93e9-ce0040e85234 restarted
+Traceback (most recent call last):
+  File "/home/dcai/anaconda3/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/dcai/anaconda3/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel_launcher.py", line 16, in <module>
+    app.launch_new_instance()
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/traitlets/config/application.py", line 844, in launch_instance
+    app.initialize(argv)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/traitlets/config/application.py", line 87, in inner
+    return method(app, *args, **kwargs)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 567, in initialize
+    self.init_sockets()
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 271, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 218, in _bind_socket
+    return self._try_bind_socket(s, port)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 194, in _try_bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/zmq/sugar/socket.py", line 173, in bind
+    super().bind(addr)
+  File "zmq/backend/cython/socket.pyx", line 542, in zmq.backend.cython.socket.Socket.bind
+  File "zmq/backend/cython/checkrc.pxd", line 28, in zmq.backend.cython.checkrc._check_rc
+zmq.error.ZMQError: Address already in use
+[I 11:07:36.124 NotebookApp] KernelRestarter: restarting kernel (4/5), keep random ports
+kernel e96412b2-701a-45df-93e9-ce0040e85234 restarted
+Traceback (most recent call last):
+  File "/home/dcai/anaconda3/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/dcai/anaconda3/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel_launcher.py", line 16, in <module>
+    app.launch_new_instance()
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/traitlets/config/application.py", line 844, in launch_instance
+    app.initialize(argv)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/traitlets/config/application.py", line 87, in inner
+    return method(app, *args, **kwargs)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 567, in initialize
+    self.init_sockets()
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 271, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 218, in _bind_socket
+    return self._try_bind_socket(s, port)
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/ipykernel/kernelapp.py", line 194, in _try_bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "/home/dcai/anaconda3/lib/python3.8/site-packages/zmq/sugar/socket.py", line 173, in bind
+    super().bind(addr)
+  File "zmq/backend/cython/socket.pyx", line 542, in zmq.backend.cython.socket.Socket.bind
+  File "zmq/backend/cython/checkrc.pxd", line 28, in zmq.backend.cython.checkrc._check_rc
+zmq.error.ZMQError: Address already in use
+[W 11:07:39.133 NotebookApp] KernelRestarter: restart failed
+[W 11:07:39.134 NotebookApp] Kernel e96412b2-701a-45df-93e9-ce0040e85234 died, removing from map.
+kernel e96412b2-701a-45df-93e9-ce0040e85234 restarted failed!
+[W 11:07:39.247 NotebookApp] 410 DELETE /api/sessions/d665c4ed-a021-4169-9c2c-cfe2eb9d045f (192.168.0.136): Kernel deleted before session
+[W 11:07:39.248 NotebookApp] Kernel deleted before session
+[W 11:07:39.248 NotebookApp] 410 DELETE /api/sessions/d665c4ed-a021-4169-9c2c-cfe2eb9d045f (192.168.0.136) 10.000000ms referer=http://dcai.local:8888/notebooks/feature-engineering.ipynb
+[I 11:08:33.678 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 11:08:33.679 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[W 11:09:45.612 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 11:09:46.188 NotebookApp] Kernel started: 08ca7ff9-d212-4868-ba33-d34bdc04273a, name: python3
+[I 11:11:13.351 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 11:11:13.352 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 11:11:25.812 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 11:11:25.812 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 11:11:46.211 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 11:11:46.212 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 11:13:46.214 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 11:13:46.214 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 11:15:46.212 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 11:15:46.213 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 11:17:46.213 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 11:17:46.214 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 12:36:24.204 NotebookApp] Starting buffering for 08ca7ff9-d212-4868-ba33-d34bdc04273a:22ded34a59bd40948c096e835315d16d
+[I 12:36:24.207 NotebookApp] Starting buffering for 7890569f-546c-4204-802a-2d45dcc2fd2a:f10219baff43424d8e10f8d8471c8ea5
+[I 12:36:28.253 NotebookApp] Restoring connection for 08ca7ff9-d212-4868-ba33-d34bdc04273a:22ded34a59bd40948c096e835315d16d
+[I 12:36:28.331 NotebookApp] Restoring connection for 7890569f-546c-4204-802a-2d45dcc2fd2a:f10219baff43424d8e10f8d8471c8ea5
+[W 12:39:58.253 NotebookApp] WebSocket ping timeout after 119797 ms.
+[W 12:39:58.331 NotebookApp] WebSocket ping timeout after 119875 ms.
+[I 12:40:03.256 NotebookApp] Starting buffering for 08ca7ff9-d212-4868-ba33-d34bdc04273a:22ded34a59bd40948c096e835315d16d
+[I 12:40:03.332 NotebookApp] Starting buffering for 7890569f-546c-4204-802a-2d45dcc2fd2a:f10219baff43424d8e10f8d8471c8ea5
+[I 12:46:47.531 NotebookApp] Restoring connection for 08ca7ff9-d212-4868-ba33-d34bdc04273a:22ded34a59bd40948c096e835315d16d
+[I 12:46:47.586 NotebookApp] Restoring connection for 7890569f-546c-4204-802a-2d45dcc2fd2a:f10219baff43424d8e10f8d8471c8ea5
