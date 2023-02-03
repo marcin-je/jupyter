@@ -2341,3 +2341,326 @@ kernel e96412b2-701a-45df-93e9-ce0040e85234 restarted failed!
 [I 10:09:23.603 NotebookApp] Starting buffering for 7890569f-546c-4204-802a-2d45dcc2fd2a:f10219baff43424d8e10f8d8471c8ea5
 [I 10:09:26.734 NotebookApp] Restoring connection for 7890569f-546c-4204-802a-2d45dcc2fd2a:f10219baff43424d8e10f8d8471c8ea5
 [I 10:09:26.751 NotebookApp] Restoring connection for 08ca7ff9-d212-4868-ba33-d34bdc04273a:22ded34a59bd40948c096e835315d16d
+[I 15:08:47.647 NotebookApp] Writing notebook server cookie secret to /home/dcai/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2023-01-31 15:08:47.793 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-01-31 15:08:47.793 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-01-31 15:08:47.793 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-01-31 15:08:47.793 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-01-31 15:08:47.796 LabApp] JupyterLab extension loaded from /home/dcai/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-01-31 15:08:47.796 LabApp] JupyterLab application directory is /home/dcai/anaconda3/share/jupyter/lab
+[I 15:08:47.798 NotebookApp] Serving notebooks from local directory: /home/dcai/jupyter
+[I 15:08:47.798 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 15:08:47.798 NotebookApp] http://dcai2:8888/?token=e5d4518ddb4b907c34bb38c050fe846318e335c9fdc33475
+[I 15:08:47.798 NotebookApp]  or http://127.0.0.1:8888/?token=e5d4518ddb4b907c34bb38c050fe846318e335c9fdc33475
+[I 15:08:47.798 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:08:47.799 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/dcai/.local/share/jupyter/runtime/nbserver-774286-open.html
+    Or copy and paste one of these URLs:
+        http://dcai2:8888/?token=e5d4518ddb4b907c34bb38c050fe846318e335c9fdc33475
+     or http://127.0.0.1:8888/?token=e5d4518ddb4b907c34bb38c050fe846318e335c9fdc33475
+[I 15:09:01.154 NotebookApp] 302 GET / (192.168.0.102) 0.820000ms
+[I 15:09:01.158 NotebookApp] 302 GET /tree? (192.168.0.102) 0.980000ms
+[I 15:10:14.871 NotebookApp] 302 GET /?token=e5d4518ddb4b907c34bb38c050fe846318e335c9fdc33475 (192.168.0.102) 0.240000ms
+[I 15:10:33.651 NotebookApp] Writing notebook-signing key to /home/dcai/.local/share/jupyter/notebook_secret
+[W 15:10:33.653 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:10:33.965 NotebookApp] Kernel started: 6aa02be4-082d-4f8c-a507-ee4e3fcf7623, name: python3
+[I 15:12:33.971 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:12:33.971 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:14:33.954 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:14:33.954 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:16:33.949 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:16:33.958 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:18:33.958 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:18:33.958 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:20:33.959 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:20:33.959 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:22:33.961 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:22:33.961 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:24:34.681 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:24:34.682 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:26:38.078 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:26:38.078 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:30:35.094 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:30:35.094 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:34:33.969 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:34:33.970 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:38:33.974 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:38:33.974 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:40:34.803 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:40:34.803 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:44:33.978 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:44:33.978 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:46:35.152 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:46:35.152 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 15:50:35.194 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 15:50:35.195 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[W 16:35:34.317 NotebookApp] WebSocket ping timeout after 119998 ms.
+[I 16:35:39.320 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:483617f0991444a78659c664c8c64591
+[I 16:38:59.707 NotebookApp] 302 GET /notebooks/feature-engineering.ipynb (192.168.0.136) 1.090000ms
+[I 16:40:08.235 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Ffeature-engineering.ipynb (192.168.0.136) 1.760000ms
+[W 16:40:09.789 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 16:42:10.281 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 16:42:10.281 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+/home/dcai/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 16:44:10.279 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 16:44:10.280 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 16:46:10.288 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 16:46:10.289 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 16:48:10.928 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 16:48:10.929 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 16:50:10.775 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 16:50:10.775 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 16:54:10.968 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 16:54:10.969 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 17:04:10.836 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 17:04:10.836 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 17:14:11.837 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 17:14:11.837 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 17:20:31.440 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 17:20:32.738 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[W 17:22:02.740 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 17:22:07.742 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 18:13:25.809 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 18:39:27.304 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 18:39:29.018 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[W 18:40:59.020 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 18:41:04.021 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 19:18:01.070 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[W 19:19:31.071 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 19:19:36.076 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 21:21:03.842 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[W 21:22:33.844 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 21:22:38.848 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 21:33:21.328 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 22:07:01.393 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 22:07:03.027 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[W 22:08:33.031 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 22:08:38.033 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 00:09:57.459 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[W 00:12:27.461 NotebookApp] WebSocket ping timeout after 119962 ms.
+[I 00:12:32.465 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 04:11:13.828 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[W 04:12:43.830 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 04:12:48.832 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 06:11:55.469 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[W 06:13:25.471 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 06:13:30.475 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 07:30:13.798 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[W 07:31:43.799 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 07:31:48.803 NotebookApp] Starting buffering for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[I 08:29:17.801 NotebookApp] Restoring connection for 6aa02be4-082d-4f8c-a507-ee4e3fcf7623:5fd6cbdaa08b427da13068a52646128c
+[C 08:34:15.969 NotebookApp] received signal 15, stopping
+[I 08:34:15.969 NotebookApp] Shutting down 1 kernel
+[I 08:34:15.969 NotebookApp] Kernel shutdown: 6aa02be4-082d-4f8c-a507-ee4e3fcf7623
+[I 08:34:16.282 NotebookApp] Shutting down 0 terminals
+[W 2023-02-01 09:30:33.919 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-02-01 09:30:33.919 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-02-01 09:30:33.919 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-02-01 09:30:33.919 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-02-01 09:30:33.922 LabApp] JupyterLab extension loaded from /home/dcai/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-01 09:30:33.922 LabApp] JupyterLab application directory is /home/dcai/anaconda3/share/jupyter/lab
+[I 09:30:33.924 NotebookApp] Serving notebooks from local directory: /home/dcai/jupyter
+[I 09:30:33.924 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 09:30:33.924 NotebookApp] http://dcai2:8888/?token=fb77ea54c46e4e66c3323189581b9e34b8e50c44b0e7384e
+[I 09:30:33.924 NotebookApp]  or http://127.0.0.1:8888/?token=fb77ea54c46e4e66c3323189581b9e34b8e50c44b0e7384e
+[I 09:30:33.924 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:30:33.925 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/dcai/.local/share/jupyter/runtime/nbserver-22862-open.html
+    Or copy and paste one of these URLs:
+        http://dcai2:8888/?token=fb77ea54c46e4e66c3323189581b9e34b8e50c44b0e7384e
+     or http://127.0.0.1:8888/?token=fb77ea54c46e4e66c3323189581b9e34b8e50c44b0e7384e
+[I 09:31:53.050 NotebookApp] 302 GET / (192.168.0.102) 0.220000ms
+[I 09:31:53.061 NotebookApp] 302 GET /tree? (192.168.0.102) 0.280000ms
+[I 09:31:59.670 NotebookApp] 302 GET /login?next=%2Ftree%3F (192.168.0.102) 0.730000ms
+[W 09:32:03.827 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 09:32:04.217 NotebookApp] Kernel started: 72e3a211-4624-430b-aad1-a430f9a685b8, name: python3
+[I 09:33:31.101 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 09:33:31.102 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 09:34:04.979 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 09:34:04.979 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 09:44:04.203 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 09:44:04.203 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+/home/dcai/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 09:50:04.217 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 09:50:04.217 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 09:56:04.213 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 09:56:04.213 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 10:20:04.779 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 10:20:04.779 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 10:24:04.781 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 10:24:04.782 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 10:32:16.540 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 10:32:16.540 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 10:44:04.240 NotebookApp] Saving file at /feature-engineering.ipynb
+[W 10:44:04.240 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 12:35:14.495 NotebookApp] Starting buffering for 72e3a211-4624-430b-aad1-a430f9a685b8:ae8a7169b4774d13a76d1833d3e30ac3
+[I 12:35:17.935 NotebookApp] Restoring connection for 72e3a211-4624-430b-aad1-a430f9a685b8:ae8a7169b4774d13a76d1833d3e30ac3
+[I 19:12:20.668 NotebookApp] Starting buffering for 72e3a211-4624-430b-aad1-a430f9a685b8:ae8a7169b4774d13a76d1833d3e30ac3
+[I 19:12:24.787 NotebookApp] Restoring connection for 72e3a211-4624-430b-aad1-a430f9a685b8:ae8a7169b4774d13a76d1833d3e30ac3
+[I 21:15:22.835 NotebookApp] Starting buffering for 72e3a211-4624-430b-aad1-a430f9a685b8:ae8a7169b4774d13a76d1833d3e30ac3
+[I 21:15:24.199 NotebookApp] Restoring connection for 72e3a211-4624-430b-aad1-a430f9a685b8:ae8a7169b4774d13a76d1833d3e30ac3
+[W 00:19:24.202 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 00:19:29.205 NotebookApp] Starting buffering for 72e3a211-4624-430b-aad1-a430f9a685b8:ae8a7169b4774d13a76d1833d3e30ac3
+[I 12:06:15.440 NotebookApp] 302 GET /notebooks/feature-engineering.ipynb (192.168.0.102) 0.320000ms
+[I 13:24:50.801 NotebookApp] 302 GET /?token=fb77ea54c46e4e66c3323189581b9e34b8e50c44b0e7384e (192.168.0.102) 0.810000ms
+[W 13:24:54.858 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 13:25:02.296 NotebookApp] Creating new notebook in 
+[I 13:25:02.870 NotebookApp] Kernel started: 12b801f9-7d1c-491f-ab7b-ba7637a10fe9, name: python3
+[I 13:25:06.130 NotebookApp] Saving file at /Untitled1.ipynb
+[I 13:27:03.902 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 13:28:30.289 NotebookApp] Starting buffering for 72e3a211-4624-430b-aad1-a430f9a685b8:2edf5094aeb6460586f8e2985cd05069
+[I 13:28:30.294 NotebookApp] Kernel shutdown: 72e3a211-4624-430b-aad1-a430f9a685b8
+[I 13:29:02.877 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 13:39:02.890 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 13:41:02.876 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 13:41:49.218 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 13:41:49.629 NotebookApp] Kernel started: 75789b7f-f4eb-4288-adc8-611101600bfc, name: python3
+[I 13:43:02.950 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 13:45:02.880 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 13:47:02.887 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 13:57:02.907 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:21:02.904 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:23:02.908 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:25:02.902 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:27:02.904 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 14:27:37.778 NotebookApp] Notebook data-downloader.ipynb is not trusted
+[I 14:27:38.021 NotebookApp] Kernel started: 95970791-7d85-4be2-ac16-f33d45d41e29, name: python3
+[I 14:29:02.905 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:29:38.253 NotebookApp] Saving file at /data-downloader.ipynb
+[I 14:31:02.905 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:33:02.905 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:35:02.909 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:37:02.913 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:41:03.228 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:43:02.917 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:45:02.922 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:55:02.949 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 14:57:03.233 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 15:03:08.218 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 15:13:20.258 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 15:17:40.657 NotebookApp] 302 GET /notebooks/feature-engineering.ipynb (192.168.0.102) 0.520000ms
+[I 15:27:20.270 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 15:43:20.285 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 15:43:26.780 NotebookApp] 302 GET / (192.168.0.102) 0.320000ms
+[I 15:43:26.785 NotebookApp] 302 GET /tree? (192.168.0.102) 0.450000ms
+[I 15:43:31.847 NotebookApp] 302 GET /login?next=%2Ftree%3F (192.168.0.102) 0.490000ms
+[W 15:43:36.620 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 16:05:03.308 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 16:31:20.308 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 17:01:20.329 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 17:33:21.129 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 18:11:21.210 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 18:53:21.834 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 19:35:20.646 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 20:05:53.850 NotebookApp] Starting buffering for 95970791-7d85-4be2-ac16-f33d45d41e29:afe940c3a5a2483b9c02dac3238bc5ea
+[I 20:05:53.851 NotebookApp] Starting buffering for 75789b7f-f4eb-4288-adc8-611101600bfc:4e9e43004ea042bb99edf3ba4e042975
+[I 20:05:53.851 NotebookApp] Starting buffering for 12b801f9-7d1c-491f-ab7b-ba7637a10fe9:b7dff68518334b3689b5d69f8e3d8d17
+[I 20:05:55.419 NotebookApp] Restoring connection for 12b801f9-7d1c-491f-ab7b-ba7637a10fe9:b7dff68518334b3689b5d69f8e3d8d17
+[I 20:05:55.449 NotebookApp] Restoring connection for 95970791-7d85-4be2-ac16-f33d45d41e29:afe940c3a5a2483b9c02dac3238bc5ea
+[I 20:05:55.464 NotebookApp] Restoring connection for 75789b7f-f4eb-4288-adc8-611101600bfc:4e9e43004ea042bb99edf3ba4e042975
+[I 20:23:23.465 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 21:13:22.869 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 21:16:49.911 NotebookApp] Starting buffering for 75789b7f-f4eb-4288-adc8-611101600bfc:4e9e43004ea042bb99edf3ba4e042975
+[I 21:16:49.912 NotebookApp] Starting buffering for 95970791-7d85-4be2-ac16-f33d45d41e29:afe940c3a5a2483b9c02dac3238bc5ea
+[I 21:16:49.912 NotebookApp] Starting buffering for 12b801f9-7d1c-491f-ab7b-ba7637a10fe9:b7dff68518334b3689b5d69f8e3d8d17
+[I 21:16:51.466 NotebookApp] Restoring connection for 95970791-7d85-4be2-ac16-f33d45d41e29:afe940c3a5a2483b9c02dac3238bc5ea
+[I 21:16:52.173 NotebookApp] Restoring connection for 75789b7f-f4eb-4288-adc8-611101600bfc:4e9e43004ea042bb99edf3ba4e042975
+[I 22:07:22.318 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 23:05:23.521 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 00:05:23.539 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 01:11:23.561 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 02:17:21.246 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 03:31:21.289 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 04:45:23.153 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 06:03:23.657 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[I 07:25:20.656 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 08:51:21.448 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 08:51:21.468 NotebookApp] WebSocket ping timeout after 119999 ms.
+[W 08:51:21.485 NotebookApp] WebSocket ping timeout after 119999 ms.
+[W 08:51:22.175 NotebookApp] WebSocket ping timeout after 119998 ms.
+[I 08:51:26.469 NotebookApp] Starting buffering for 95970791-7d85-4be2-ac16-f33d45d41e29:afe940c3a5a2483b9c02dac3238bc5ea
+[I 08:51:26.485 NotebookApp] Starting buffering for 12b801f9-7d1c-491f-ab7b-ba7637a10fe9:b7dff68518334b3689b5d69f8e3d8d17
+[I 08:51:27.175 NotebookApp] Starting buffering for 75789b7f-f4eb-4288-adc8-611101600bfc:4e9e43004ea042bb99edf3ba4e042975
+[I 09:00:53.879 NotebookApp] Discarding 1 buffered messages for 12b801f9-7d1c-491f-ab7b-ba7637a10fe9:b7dff68518334b3689b5d69f8e3d8d17
+[I 09:00:53.924 NotebookApp] Restoring connection for 95970791-7d85-4be2-ac16-f33d45d41e29:afe940c3a5a2483b9c02dac3238bc5ea
+[I 09:00:54.085 NotebookApp] Restoring connection for 75789b7f-f4eb-4288-adc8-611101600bfc:4e9e43004ea042bb99edf3ba4e042975
+[W 09:00:59.328 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:01:20.314 NotebookApp] Kernel restarted: 12b801f9-7d1c-491f-ab7b-ba7637a10fe9
+[I 09:08:59.645 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:08:59.646 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:10:59.629 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:10:59.629 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:12:59.550 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:12:59.551 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:14:59.841 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:14:59.841 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:16:59.812 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:16:59.812 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:24:59.760 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:24:59.760 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:26:59.573 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:26:59.573 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:28:59.573 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:28:59.573 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:32:59.561 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:32:59.562 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:34:59.574 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:34:59.574 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:37:01.471 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:37:01.471 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:37:26.940 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:37:26.940 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:38:59.665 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:38:59.665 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:41:00.209 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:41:00.209 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:42:59.881 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:42:59.882 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:45:00.471 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:45:00.472 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:47:00.087 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:47:00.087 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:49:00.319 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:49:00.320 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:51:00.355 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:51:00.355 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 09:53:01.477 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 09:53:01.478 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:03:01.792 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:03:01.792 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:20:59.621 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:20:59.621 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:22:59.568 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:22:59.568 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:25:00.108 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:25:00.108 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:26:59.589 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:26:59.590 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:30:59.588 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:30:59.588 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[W 10:31:41.834 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7f55348e6190>
+[I 10:31:44.637 NotebookApp] Kernel restarted: 12b801f9-7d1c-491f-ab7b-ba7637a10fe9
+[I 10:32:59.581 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:32:59.582 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:33:12.710 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:33:12.710 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:34:05.028 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:34:05.028 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:35:00.333 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:35:00.334 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:36:59.574 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:36:59.575 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:38:59.583 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:38:59.583 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 10:39:33.524 NotebookApp] Saving file at /feature-engineeringV2.ipynb
+[W 10:39:33.524 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
