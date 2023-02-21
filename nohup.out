@@ -4318,3 +4318,1523 @@ kernel 02a34bf3-7594-45f1-9eaa-e6b8b5893995 restarted
 [W 15:33:29.287 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
 [I 15:45:10.314 NotebookApp] Starting buffering for 02a34bf3-7594-45f1-9eaa-e6b8b5893995:81b6fca28664423cb2f88c57876f2721
 [W 15:45:10.603 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[C 16:03:33.109 NotebookApp] received signal 15, stopping
+[I 16:03:33.114 NotebookApp] Shutting down 3 kernels
+[I 16:03:33.116 NotebookApp] Kernel shutdown: 02a34bf3-7594-45f1-9eaa-e6b8b5893995
+[I 16:03:33.333 NotebookApp] Kernel shutdown: 2e4a2bd0-d879-4223-b6d7-32f670b90e19
+[I 16:03:33.344 NotebookApp] Kernel shutdown: 9cfda78e-8609-42b4-9168-96592633de24
+[I 16:03:33.356 NotebookApp] Shutting down 0 terminals
+[W 2023-02-13 16:11:40.567 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-02-13 16:11:40.567 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-02-13 16:11:40.567 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-02-13 16:11:40.567 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-02-13 16:11:40.569 LabApp] JupyterLab extension loaded from /home/dcai/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-13 16:11:40.569 LabApp] JupyterLab application directory is /home/dcai/anaconda3/share/jupyter/lab
+[I 16:11:40.571 NotebookApp] Serving notebooks from local directory: /home/dcai/jupyter
+[I 16:11:40.571 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 16:11:40.571 NotebookApp] http://dcai2:8888/?token=4a9c01f87eca38ff059f16c0b80ab695e189d99a7a31af56
+[I 16:11:40.571 NotebookApp]  or http://127.0.0.1:8888/?token=4a9c01f87eca38ff059f16c0b80ab695e189d99a7a31af56
+[I 16:11:40.571 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:11:40.573 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/dcai/.local/share/jupyter/runtime/nbserver-8274-open.html
+    Or copy and paste one of these URLs:
+        http://dcai2:8888/?token=4a9c01f87eca38ff059f16c0b80ab695e189d99a7a31af56
+     or http://127.0.0.1:8888/?token=4a9c01f87eca38ff059f16c0b80ab695e189d99a7a31af56
+[W 16:11:49.855 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 16:11:50.156 NotebookApp] Kernel started: 81851549-58a4-4435-bc52-a349083a279f, name: python3
+[I 16:12:46.564 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 16:12:46.690 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 16:12:46.702 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 16:12:46.982 NotebookApp] Replaying 3 buffered messages
+[I 16:13:51.513 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:17:51.078 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 17:53:14.025 NotebookApp] Notebook feature-engineeringV2.ipynb is not trusted
+[I 17:53:14.361 NotebookApp] Kernel started: fdc8194e-5a15-4d71-bbc7-17dedd9ab281, name: python3
+[W 17:53:15.984 NotebookApp] Notebook ml4f-boostedtrees.ipynb is not trusted
+[I 17:53:16.272 NotebookApp] Kernel started: 7aba606b-a19d-4959-b6db-e2d88b7a2eea, name: python3
+[I 17:53:22.635 NotebookApp] Kernel started: c4630262-4c88-40a5-a336-21d220b229da, name: python3
+[W 17:53:24.518 NotebookApp] Notebook feature-engineering.ipynb is not trusted
+[I 17:53:24.885 NotebookApp] Kernel started: 5ed8904f-159b-4c13-8e6a-b19e39bab2f6, name: python3
+[W 17:53:30.156 NotebookApp] Notebook xgb gpu test.ipynb is not trusted
+[I 17:53:30.355 NotebookApp] Kernel started: fcbf9a5f-34ae-480c-865f-8e990d77ec21, name: python3
+[I 19:57:27.864 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 19:57:27.866 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 19:57:27.866 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 19:57:27.866 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 19:57:27.866 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 19:57:27.866 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 19:57:31.427 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 19:57:31.453 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 19:57:31.489 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 19:57:31.529 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 19:57:31.548 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 19:57:31.588 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[W 19:59:01.427 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 19:59:01.455 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 19:59:01.490 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 19:59:01.530 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 19:59:01.550 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 19:59:01.588 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 19:59:06.429 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 19:59:06.456 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 19:59:06.491 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 19:59:06.531 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 19:59:06.551 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 19:59:06.589 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 21:21:19.508 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:21:19.685 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:21:19.766 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:21:19.802 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:21:19.839 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:21:19.873 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 23:09:35.159 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 23:09:35.160 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 23:09:35.160 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:09:35.160 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 23:09:35.160 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:09:35.160 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 23:09:36.405 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 23:09:36.450 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:09:36.494 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 23:09:36.543 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:09:36.570 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 23:09:36.610 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[W 23:11:06.406 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 23:11:06.450 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:11:06.495 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 23:11:06.543 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:11:06.571 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:11:06.611 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 23:11:11.407 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 23:11:11.451 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:11:11.496 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 23:11:11.544 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:11:11.571 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 23:11:11.611 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 02:10:18.280 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 02:10:18.456 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 02:10:18.756 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 02:10:18.938 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 02:10:19.108 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 02:10:19.134 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[W 02:11:48.282 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 02:11:48.456 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 02:11:48.757 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 02:11:48.939 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 02:11:49.108 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 02:11:49.136 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 02:11:53.283 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 02:11:53.457 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 02:11:53.758 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 02:11:53.940 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 02:11:54.109 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 02:11:54.137 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 04:47:28.586 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 04:47:28.604 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 04:47:28.634 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 04:47:28.666 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 04:47:29.513 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 04:47:29.544 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[W 04:48:58.587 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 04:48:58.604 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 04:48:58.635 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 04:48:58.667 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 04:48:59.513 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 04:48:59.545 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 04:49:03.588 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 04:49:03.605 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 04:49:03.636 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 04:49:03.668 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 04:49:04.514 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 04:49:04.545 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 08:00:15.546 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 08:00:15.609 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 08:00:15.723 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 08:00:15.766 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 08:00:16.972 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 08:00:17.006 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[W 08:01:45.547 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 08:01:45.609 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 08:01:45.723 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 08:01:45.767 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 08:01:46.972 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 08:01:47.006 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 08:01:50.548 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 08:01:50.610 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 08:01:50.724 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 08:01:50.768 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 08:01:51.973 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 08:01:52.007 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 09:00:31.325 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 09:00:31.409 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 09:00:31.449 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 09:00:31.487 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 09:00:31.532 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 09:00:31.594 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 09:02:08.382 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 09:02:34.699 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 09:02:37.289 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 09:02:37.299 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 09:04:03.116 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 09:04:03.250 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 09:04:03.269 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 09:04:03.595 NotebookApp] Replaying 3 buffered messages
+[I 09:04:22.404 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 09:08:22.396 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 09:12:23.646 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 09:14:26.742 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 09:16:23.342 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 09:35:18.245 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 09:36:22.451 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 09:37:29.085 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 09:37:29.215 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 09:37:29.251 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 09:37:29.559 NotebookApp] Replaying 3 buffered messages
+[I 09:38:23.307 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 09:42:22.423 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 09:44:51.661 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 09:45:03.580 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 09:45:06.324 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 09:45:06.349 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 09:46:22.424 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 09:50:22.421 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:14:22.449 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:14:24.780 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 10:14:45.782 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 10:14:48.517 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 10:14:48.525 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 10:16:22.436 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:20:22.436 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:22:22.438 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:24:22.447 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:26:22.440 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:28:12.511 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 10:28:22.451 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:31:27.718 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 10:31:27.845 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 10:31:27.875 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 10:31:28.103 NotebookApp] Replaying 3 buffered messages
+[I 10:32:22.453 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:35:24.836 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 10:36:23.345 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:37:13.107 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 10:37:13.234 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 10:37:13.259 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 10:37:13.512 NotebookApp] Replaying 3 buffered messages
+[I 10:38:23.341 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:42:23.394 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 11:18:35.566 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 11:18:38.225 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 11:18:38.237 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 11:18:58.450 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 11:20:22.788 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 11:24:32.349 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 11:26:22.479 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 11:28:23.378 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 11:36:22.486 NotebookApp] Saving file at /train-lab-v1.ipynb
+/home/dcai/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 11:38:22.492 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 11:40:22.569 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 11:40:23.218 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 11:42:22.489 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:14:53.095 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 12:14:53.237 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 12:14:53.252 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 12:14:53.565 NotebookApp] Replaying 3 buffered messages
+[I 12:15:30.909 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 12:15:31.037 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 12:15:31.043 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 12:15:31.339 NotebookApp] Replaying 3 buffered messages
+[I 12:16:23.408 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:20:23.590 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:22:23.437 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:24:22.511 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:26:23.409 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:32:22.535 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:34:22.525 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:36:22.522 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:42:22.543 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:43:44.063 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 12:43:44.897 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 12:43:44.922 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 12:43:45.429 NotebookApp] Replaying 3 buffered messages
+[I 12:44:23.419 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:48:22.759 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:52:17.899 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 12:52:22.631 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:03:02.916 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 13:03:03.056 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 13:03:03.070 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 13:03:03.582 NotebookApp] Replaying 3 buffered messages
+[I 13:04:22.550 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:08:22.543 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:10:22.541 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:12:22.562 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:34:22.595 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:36:22.562 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:38:22.562 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:40:22.564 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:41:36.052 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 13:42:14.542 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 13:42:14.694 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 13:42:14.728 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 13:42:14.916 NotebookApp] Replaying 3 buffered messages
+[I 13:42:22.569 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:44:22.689 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:46:22.571 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:48:11.691 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 13:48:22.710 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:50:29.482 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 13:50:29.615 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 13:50:29.645 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 13:50:29.883 NotebookApp] Replaying 3 buffered messages
+[I 13:52:27.838 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:52:29.614 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 13:53:35.878 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 13:53:36.007 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 13:53:36.036 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 13:53:36.354 NotebookApp] Replaying 3 buffered messages
+[I 13:54:22.575 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:56:22.572 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:00:22.574 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:01:12.002 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 14:02:23.924 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:03:31.686 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 14:03:31.823 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 14:03:31.848 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 14:03:32.109 NotebookApp] Replaying 3 buffered messages
+[I 14:22:23.076 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:24:22.589 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:26:23.983 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:28:23.973 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:30:22.816 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 14:30:23.507 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:34:22.767 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:35:00.521 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 14:35:03.686 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 14:35:03.719 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 14:35:04.229 NotebookApp] Replaying 3 buffered messages
+[I 14:36:23.493 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:05:21.072 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 15:06:11.411 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 15:06:14.347 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 15:06:14.367 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 15:06:14.628 NotebookApp] Replaying 11 buffered messages
+[I 15:06:22.617 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:08:22.620 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:08:45.982 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 15:08:46.813 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 15:08:46.836 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 15:08:47.077 NotebookApp] Replaying 3 buffered messages
+[I 15:10:17.832 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 15:10:18.568 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 15:10:18.592 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 15:10:18.788 NotebookApp] Replaying 3 buffered messages
+[I 15:10:22.620 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:12:22.622 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:13:04.761 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 15:13:05.892 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 15:13:05.920 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 15:13:06.431 NotebookApp] Replaying 8 buffered messages
+[I 15:14:22.621 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:34:24.031 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:43:10.075 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 15:44:04.398 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 15:44:05.143 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 15:44:05.152 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 15:44:05.359 NotebookApp] Replaying 3 buffered messages
+[I 15:44:22.648 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:46:22.644 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:48:22.646 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:58:41.452 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 15:58:44.100 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 15:58:44.109 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 16:00:23.546 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:04:23.548 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:07:57.561 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 16:08:00.191 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 16:08:00.214 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 16:08:22.925 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:12:23.013 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:16:29.986 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 16:16:32.616 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 16:16:32.643 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 16:18:24.048 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:22:24.015 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:57:21.520 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 16:58:23.580 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:04:29.741 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 17:04:32.399 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 17:04:32.411 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[I 17:06:22.692 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:08:24.039 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:10:22.695 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:10:32.389 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 17:11:39.207 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:241bfca85a3640c9836584f590e84477
+[W 17:11:39.838 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 17:13:40.608 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 17:13:40.608 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 17:17:41.073 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 17:17:41.073 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 17:19:41.081 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 17:19:41.082 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 17:29:40.083 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 17:29:40.083 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 17:31:40.072 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 17:31:40.072 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 17:32:10.273 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 17:32:10.285 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 17:32:10.286 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 17:32:10.287 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 17:32:10.288 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 17:32:10.289 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 17:32:11.614 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 17:32:11.614 NotebookApp] Replaying 3 buffered messages
+[I 17:32:11.640 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 17:32:11.657 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 17:32:11.671 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 17:32:11.684 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 17:32:11.696 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[W 17:33:41.615 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 17:33:41.642 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 17:33:41.657 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 17:33:41.672 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 17:33:41.686 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 17:33:41.696 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 17:33:44.338 NotebookApp] zmq message arrived on closed channel
+[W 17:33:44.338 NotebookApp] zmq message arrived on closed channel
+[W 17:33:44.339 NotebookApp] zmq message arrived on closed channel
+[I 17:33:46.616 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 17:33:46.644 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 17:33:46.658 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 17:33:46.672 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 17:33:46.687 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 17:33:46.697 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 19:19:03.259 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 19:19:03.279 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 19:19:03.293 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 19:19:03.327 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 19:19:03.339 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 19:19:20.042 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 19:19:20.045 NotebookApp] Replaying 465 buffered messages
+[I 19:19:43.701 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 19:19:43.701 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 19:21:43.701 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 19:21:43.701 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 19:27:43.707 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 19:27:43.707 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 19:53:25.402 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 20:09:14.346 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 20:09:29.484 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:09:30.314 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 20:09:30.320 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:09:30.628 NotebookApp] Replaying 14 buffered messages
+[I 20:09:43.737 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 20:09:43.737 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 20:11:43.738 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 20:11:43.739 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 20:23:43.770 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 20:23:43.770 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 20:37:43.765 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 20:37:43.765 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 20:51:43.784 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 20:51:43.785 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 21:03:43.789 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 21:03:43.790 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 21:17:43.786 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 21:17:43.786 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 21:49:44.733 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 21:49:44.734 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 22:10:34.369 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 22:10:34.370 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 22:25:44.861 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 22:25:44.861 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 22:26:18.367 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 22:26:29.269 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 22:26:30.101 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 22:26:30.110 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 22:26:30.375 NotebookApp] Replaying 11 buffered messages
+[I 22:27:44.344 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 22:27:44.344 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 22:47:44.367 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 22:47:44.367 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 23:10:01.464 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 23:10:01.465 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 23:10:35.752 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 23:10:35.752 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 23:10:35.752 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 23:10:35.753 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:10:35.753 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:10:35.753 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 23:10:36.783 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 23:10:37.379 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 23:10:37.392 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 23:10:37.405 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:10:37.421 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:10:37.436 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[W 23:12:06.784 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:12:07.381 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 23:12:07.392 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:12:07.407 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 23:12:07.422 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:12:07.437 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 23:12:11.786 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 23:12:12.381 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 23:12:12.393 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 23:12:12.408 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:12:12.423 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:12:12.439 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 03:11:36.913 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 03:11:36.916 NotebookApp] Replaying 473 buffered messages
+[I 03:11:38.194 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 03:11:38.194 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[W 03:13:06.914 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 03:13:11.915 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 07:12:21.350 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 07:12:30.328 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 07:12:30.341 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 07:12:30.354 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 07:12:30.367 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 07:12:30.384 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[W 07:13:51.350 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 07:13:56.351 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[W 07:14:00.330 NotebookApp] WebSocket ping timeout after 90002 ms.
+[W 07:14:00.341 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 07:14:00.355 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 07:14:00.369 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 07:14:00.384 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 07:14:05.332 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 07:14:05.343 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 07:14:05.356 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 07:14:05.371 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 07:14:05.386 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 07:44:02.938 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 07:44:12.444 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 07:44:12.473 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 07:44:12.494 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 07:44:12.517 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 07:44:12.540 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[W 08:36:26.512 NotebookApp] Replacing stale connection: 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 08:36:31.514 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 08:36:31.514 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[W 08:36:31.533 NotebookApp] Replacing stale connection: c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 08:36:36.533 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 08:36:36.534 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[W 08:36:36.569 NotebookApp] Replacing stale connection: fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 08:36:41.570 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 08:36:41.571 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[W 08:36:41.614 NotebookApp] Replacing stale connection: 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 08:36:46.615 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 08:36:46.615 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[W 08:36:46.770 NotebookApp] Replacing stale connection: fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 08:36:51.771 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 08:36:51.772 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[W 08:36:51.794 NotebookApp] Replacing stale connection: 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 08:36:56.796 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 08:36:56.796 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[W 08:38:06.535 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 08:38:11.536 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[W 08:38:11.572 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 08:38:16.573 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[W 08:38:16.616 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 08:38:21.616 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[W 08:38:21.773 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 08:38:26.774 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[W 08:38:26.796 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 08:38:31.797 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[W 08:39:01.514 NotebookApp] WebSocket ping timeout after 119808 ms.
+[I 08:39:06.515 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 08:51:42.904 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 08:51:47.052 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 08:51:52.520 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 08:51:57.082 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 08:52:02.234 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 08:52:07.075 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 09:05:00.733 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 09:05:00.733 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 09:05:00.733 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 09:05:00.733 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 09:05:00.734 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 09:05:00.734 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 09:05:02.078 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 09:05:02.097 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 09:05:02.136 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 09:05:02.157 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 09:05:02.199 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 09:05:02.421 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 09:05:03.252 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 09:05:03.252 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 09:05:03.252 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 09:05:03.252 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 09:05:03.252 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 09:05:03.252 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 09:05:05.903 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 09:05:07.886 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 09:05:07.943 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 09:05:08.019 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 09:05:08.158 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 09:05:08.470 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[W 09:06:35.905 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 09:06:37.887 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 09:06:37.943 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 09:06:38.020 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 09:06:38.159 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 09:06:38.471 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 09:06:40.906 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 09:06:42.887 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 09:06:42.944 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 09:06:43.020 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 09:06:43.161 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 09:06:43.472 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 09:07:28.407 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 09:07:28.579 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 09:07:29.087 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 09:07:29.653 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 09:07:29.783 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 09:07:29.831 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[W 09:08:58.408 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 09:08:58.580 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 09:08:59.088 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 09:08:59.654 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 09:09:03.409 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 09:09:03.580 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 09:09:04.089 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 09:09:04.654 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 09:09:05.191 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 09:09:05.224 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 09:09:05.288 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 09:09:06.176 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 10:06:30.180 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 10:06:30.181 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 10:06:30.181 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 10:06:30.181 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 10:06:30.181 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 10:06:30.182 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 10:06:31.727 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 10:06:31.743 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 10:06:31.785 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 10:06:31.803 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 10:06:32.292 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 10:06:32.325 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 12:07:35.606 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 12:07:35.615 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 12:09:35.258 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 12:09:35.258 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 13:45:35.388 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 13:45:35.388 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 13:47:35.323 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 13:47:35.324 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 13:49:35.319 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 13:49:35.319 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 13:53:34.800 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 13:53:34.800 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 13:55:34.802 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 13:55:34.802 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 13:57:34.797 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 13:57:34.797 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 13:59:35.824 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 13:59:35.824 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 14:01:36.021 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 14:01:36.021 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 14:03:35.838 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 14:03:35.839 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 14:08:25.335 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 14:08:25.335 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 15:07:34.873 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 15:07:34.873 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 15:09:34.849 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:11:32.315 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 15:11:34.847 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:13:35.838 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:15:35.376 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:17:35.008 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:19:35.434 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:21:35.879 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:24:25.396 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:25:06.092 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 15:26:25.385 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:41:34.865 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:43:35.393 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:45:36.086 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:47:35.779 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:51:35.745 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:53:35.401 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:55:35.614 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:58:25.528 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:00:10.537 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:01:35.797 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:03:35.405 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:06:17.570 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:07:35.409 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:09:35.408 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:11:35.867 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:14:25.416 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:16:26.005 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:18:25.419 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:20:25.419 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:22:25.420 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:24:25.422 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:26:25.419 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:28:25.424 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:30:25.425 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:32:25.426 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:34:25.427 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:36:25.426 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:38:25.465 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:40:25.430 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:42:28.397 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:44:25.433 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:48:09.214 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 16:48:10.607 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:55:27.717 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 16:55:27.852 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 16:55:27.866 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 16:55:28.167 NotebookApp] Replaying 3 buffered messages
+[I 16:57:35.454 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:59:35.939 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:01:35.941 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:04:25.447 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:06:25.447 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:08:25.449 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:10:25.450 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:12:25.454 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:14:25.452 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:15:35.940 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:16:33.103 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 17:17:34.934 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:19:34.931 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:21:35.917 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:38:24.965 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:55:35.991 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 18:13:34.980 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 18:31:34.993 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 18:49:34.987 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 18:55:35.536 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 20:03:34.577 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 20:03:34.586 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 20:03:34.586 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 20:03:34.587 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 20:03:34.587 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[W 20:03:36.085 NotebookApp] Replacing stale connection: 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:03:41.087 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:03:41.088 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:03:41.155 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 20:03:41.232 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 20:03:41.269 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 20:03:41.300 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 20:03:41.352 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[W 20:05:11.089 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 20:05:11.157 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 20:05:11.232 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 20:05:11.270 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 20:05:11.301 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 20:05:11.353 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 20:05:16.090 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:05:16.159 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 20:05:16.233 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 20:05:16.271 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 20:05:16.302 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 20:05:16.354 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 20:13:55.834 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:13:55.863 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 20:13:56.143 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 20:13:56.174 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 20:13:56.334 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 20:13:56.518 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 20:20:37.456 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 20:20:37.459 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 20:20:37.459 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 20:20:37.459 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 20:20:37.459 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 20:20:37.459 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:20:38.797 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 20:20:38.833 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 20:20:38.866 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 20:20:38.904 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 20:20:38.932 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:20:38.967 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[W 20:22:08.798 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 20:22:08.834 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 20:22:08.867 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 20:22:08.904 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 20:22:08.932 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 20:22:08.967 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 20:22:13.799 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 20:22:13.835 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 20:22:13.867 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 20:22:13.905 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 20:22:13.934 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:22:13.968 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 20:51:50.704 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 20:51:50.738 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 20:51:50.912 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 20:51:51.018 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 20:51:51.045 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:51:51.070 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:09:13.399 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:09:13.399 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:09:13.400 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:09:13.400 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:09:13.400 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:09:13.401 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:09:14.711 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:09:14.742 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:09:14.762 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:09:14.811 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:09:14.832 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:09:14.855 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:09:59.988 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:09:59.989 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:09:59.989 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:09:59.991 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:09:59.991 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:09:59.991 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:10:01.618 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:10:01.641 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:10:01.660 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:10:01.681 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:10:01.700 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:10:01.718 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[W 21:11:31.620 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 21:11:31.642 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:11:31.662 NotebookApp] WebSocket ping timeout after 90002 ms.
+[W 21:11:31.682 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 21:11:31.702 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 21:11:31.719 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 21:11:36.621 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:11:36.643 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:11:36.662 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:11:36.683 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:11:36.702 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:11:36.719 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:14:45.968 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:14:45.986 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:14:46.018 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:14:46.043 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:14:46.066 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:14:46.095 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 22:32:35.743 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 22:32:35.744 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 22:32:35.744 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 22:32:35.745 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 22:32:35.745 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 22:32:35.745 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 22:32:37.103 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 22:32:37.127 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 22:32:37.154 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 22:32:37.172 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 22:32:37.194 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 22:32:37.218 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[W 22:34:07.103 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 22:34:07.128 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 22:34:07.156 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 22:34:07.173 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 22:34:07.194 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 22:34:07.219 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 22:34:12.106 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 22:34:12.129 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 22:34:12.157 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 22:34:12.174 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 22:34:12.195 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 22:34:12.219 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 22:34:13.247 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 22:34:13.272 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 22:34:13.306 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 22:34:13.346 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 22:34:13.365 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 22:34:13.389 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 22:38:37.538 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 22:38:37.539 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 22:38:37.539 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 22:38:37.539 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 22:38:37.539 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 22:38:37.539 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 22:38:39.390 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 22:38:39.429 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 22:38:39.452 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 22:38:39.494 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 22:38:39.518 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 22:38:39.558 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[W 22:40:09.391 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 22:40:09.429 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 22:40:09.453 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 22:40:09.495 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 22:40:09.519 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 22:40:09.558 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 22:40:14.392 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 22:40:14.430 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 22:40:14.454 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 22:40:14.497 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 22:40:14.520 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 22:40:14.559 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 23:39:04.372 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:39:04.404 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 23:39:05.588 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:39:05.606 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 23:39:05.644 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 23:39:05.665 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[W 23:40:34.372 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:40:34.405 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:40:35.590 NotebookApp] WebSocket ping timeout after 90002 ms.
+[W 23:40:35.606 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:40:35.644 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:40:35.666 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 23:40:39.373 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:40:39.406 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 23:40:40.591 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:40:40.607 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 23:40:40.646 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 23:40:40.666 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 23:41:08.809 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 23:41:08.833 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:41:08.863 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:41:08.887 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 23:41:08.919 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 23:41:08.949 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[W 23:42:38.811 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 23:42:38.834 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:42:38.863 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:42:38.888 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:42:38.919 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:42:38.950 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 23:42:43.812 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 23:42:43.835 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:42:43.864 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:42:43.888 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 23:42:43.919 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 23:42:43.951 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 03:41:52.906 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 03:41:52.922 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 03:41:52.951 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 03:41:52.967 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 03:41:52.990 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 03:41:53.011 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[W 03:43:22.907 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 03:43:22.923 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 03:43:22.951 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 03:43:22.967 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 03:43:22.991 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 03:43:23.012 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 03:43:27.908 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 03:43:27.924 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 03:43:27.952 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 03:43:27.968 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 03:43:27.991 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 03:43:28.012 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 07:30:14.191 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 07:30:14.218 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 07:30:14.250 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 07:30:14.279 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 07:30:15.177 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 07:30:15.207 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[W 07:31:44.192 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 07:31:44.219 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 07:31:44.250 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 07:31:44.280 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 07:31:45.179 NotebookApp] WebSocket ping timeout after 90002 ms.
+[W 07:31:45.207 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 07:31:49.194 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 07:31:49.221 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 07:31:49.252 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 07:31:49.282 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 07:31:50.180 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 07:31:50.208 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 09:13:08.081 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 09:13:08.154 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 09:13:08.195 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 09:13:08.225 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 09:13:08.260 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 09:13:08.273 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 13:12:11.574 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:14:11.557 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:14:32.209 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:14:32.847 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 13:14:32.871 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:14:33.374 NotebookApp] Replaying 3 buffered messages
+[I 13:16:11.553 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:18:12.077 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:20:12.464 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:22:11.558 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:24:11.560 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:26:11.554 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:28:11.569 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:30:11.564 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:32:12.089 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:34:12.238 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:36:56.839 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 13:37:02.401 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:46:42.105 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:46:42.248 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 13:46:42.255 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:46:42.473 NotebookApp] Replaying 3 buffered messages
+[I 13:48:12.109 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:50:12.100 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:52:12.453 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:54:12.284 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:57:02.341 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:59:02.114 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:01:02.214 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 14:03:08.275 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 14:03:13.284 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[W 14:03:38.083 NotebookApp] WebSocket ping timeout after 119999 ms.
+[W 14:03:38.196 NotebookApp] WebSocket ping timeout after 119999 ms.
+[W 14:03:38.225 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 14:03:38.261 NotebookApp] WebSocket ping timeout after 119999 ms.
+[W 14:03:42.256 NotebookApp] WebSocket ping timeout after 119999 ms.
+[I 14:03:43.085 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 14:03:43.206 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 14:03:43.227 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 14:03:43.262 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 14:03:47.257 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 14:09:00.240 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 14:12:31.145 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 14:12:31.172 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 14:12:31.233 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 14:12:31.252 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 14:12:31.294 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 14:12:35.138 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 14:12:35.139 NotebookApp] Replaying 5 buffered messages
+[I 14:14:12.692 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:16:11.610 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:18:11.622 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:19:25.995 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 14:20:11.660 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:24:11.722 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:26:12.678 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:28:12.749 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:30:12.150 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:32:12.304 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:35:02.173 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:37:02.217 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:39:02.181 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:41:02.302 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:43:02.174 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:45:02.171 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:46:12.181 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:48:12.494 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:50:12.721 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:52:12.674 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:54:12.493 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:56:12.240 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 14:58:12.230 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:00:18.119 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:02:11.693 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:04:11.635 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:06:11.681 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:08:11.641 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:10:11.640 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:12:11.682 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:14:11.670 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 15:16:11.666 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:24:11.698 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:24:42.911 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 16:24:43.636 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 16:24:43.643 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 16:24:44.039 NotebookApp] Replaying 2 buffered messages
+[I 16:26:11.673 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:28:12.200 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:30:12.701 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 16:32:30.632 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 16:33:02.267 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:21:48.759 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 17:21:48.896 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 17:21:48.910 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 17:21:49.184 NotebookApp] Replaying 3 buffered messages
+[I 17:22:11.705 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:24:11.707 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:26:12.926 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:34:12.464 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:36:11.716 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:38:12.740 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:40:12.356 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 17:43:03.693 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 19:17:56.969 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 19:17:56.988 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 19:17:56.990 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 19:17:56.991 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 19:17:56.992 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 19:17:56.993 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 19:18:00.460 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 19:18:00.475 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 19:18:00.489 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 19:18:00.505 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 19:18:00.522 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 19:18:00.537 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[W 19:50:00.462 NotebookApp] WebSocket ping timeout after 119999 ms.
+[W 19:50:00.476 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 19:50:00.490 NotebookApp] WebSocket ping timeout after 119999 ms.
+[W 19:50:00.505 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 19:50:00.522 NotebookApp] WebSocket ping timeout after 119999 ms.
+[W 19:50:00.538 NotebookApp] WebSocket ping timeout after 119999 ms.
+[I 19:50:05.463 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 19:50:05.477 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 19:50:05.491 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 19:50:05.506 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 19:50:05.523 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 19:50:05.538 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 19:58:57.381 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 19:58:57.421 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 19:58:57.451 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 19:58:57.475 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 19:58:57.507 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 19:58:57.567 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 20:40:12.364 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 20:42:11.927 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 20:44:12.444 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 20:46:12.700 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 20:48:12.937 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 20:51:06.888 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 20:53:03.046 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:00:16.784 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:00:16.785 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:00:16.785 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:00:16.785 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:00:16.803 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:00:16.804 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:00:18.408 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:00:18.451 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:00:18.501 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:00:18.564 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:00:18.614 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:00:18.629 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[W 21:01:48.409 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:01:48.452 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 21:01:48.502 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:01:48.564 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:01:48.615 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:01:48.629 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 21:01:53.410 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:01:53.452 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:01:53.503 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:01:53.565 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:01:53.615 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:01:53.630 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:10:04.452 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:10:04.475 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:10:04.513 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:10:04.528 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:10:04.545 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:10:04.568 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:11:11.119 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:11:11.119 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:11:11.120 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:11:11.121 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:11:11.124 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:11:11.128 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:11:13.546 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:11:13.660 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:11:13.680 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:11:13.714 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:11:13.771 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:11:13.842 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[W 21:12:43.548 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 21:12:43.661 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 21:12:43.680 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:12:43.715 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:12:43.771 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:12:43.843 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 21:12:48.551 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:12:48.662 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:12:48.682 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:12:48.715 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:12:48.771 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:12:48.845 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:12:50.981 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:12:51.159 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:12:51.350 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:12:51.749 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:12:52.635 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:12:52.893 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:14:19.511 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:14:19.512 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:14:19.512 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:14:19.512 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:14:19.513 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:14:19.513 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:14:20.674 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:14:20.706 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:14:20.735 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:14:20.776 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:14:20.803 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:14:20.863 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[W 21:15:50.675 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 21:15:50.706 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:15:50.735 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:15:50.777 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:15:50.804 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 21:15:50.864 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 21:15:55.676 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:15:55.707 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:15:55.736 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:15:55.777 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:15:55.805 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:15:55.865 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:29:40.242 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 21:29:40.392 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 21:29:40.690 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 21:29:40.854 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 21:29:40.879 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:29:41.850 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 21:29:55.192 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:29:55.342 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 21:29:55.368 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:29:55.601 NotebookApp] Replaying 3 buffered messages
+[I 21:30:50.476 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:32:50.499 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:34:50.496 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:36:51.390 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:37:52.173 NotebookApp] Kernel interrupted: 81851549-58a4-4435-bc52-a349083a279f
+[I 21:38:50.665 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:40:04.903 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:40:05.852 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 21:40:05.892 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:40:06.170 NotebookApp] Replaying 3 buffered messages
+[I 21:40:50.459 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:42:51.320 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:44:50.842 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 21:44:51.292 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:46:50.472 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:52:51.406 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:54:50.703 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:55:49.403 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:55:50.269 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 21:55:50.322 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 21:56:50.553 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 21:58:51.056 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:00:50.537 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:02:51.526 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:04:51.390 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:06:50.495 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:08:50.548 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:10:51.530 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:11:51.550 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 22:11:54.500 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 22:11:54.538 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 22:11:54.944 NotebookApp] Replaying 3 buffered messages
+[I 22:12:50.858 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:14:50.589 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:16:51.422 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:24:50.545 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:26:51.442 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:37:41.161 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:47:41.139 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 22:59:41.507 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 23:08:53.124 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 23:58:22.077 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:58:22.077 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 23:58:22.077 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:58:22.078 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 23:58:22.078 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 23:58:22.078 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 23:58:24.512 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 23:58:24.543 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 23:58:24.601 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 23:58:24.633 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 23:58:24.661 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 23:58:24.711 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 09:30:51.353 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:00:51.218 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:02:50.690 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:06:50.691 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:08:50.694 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:11:49.716 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:14:07.515 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:15:33.491 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 10:39:49.083 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 10:45:36.515 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 81851549-58a4-4435-bc52-a349083a279f restarted
+[I 11:06:09.083 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 11:32:29.120 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 11:58:49.309 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:25:41.324 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 12:51:30.801 NotebookApp] Saving file at /train-lab-v1.ipynb
+[I 13:07:17.952 NotebookApp] Creating new notebook in 
+[I 13:07:18.930 NotebookApp] Kernel started: 8b9d5ccc-543f-4489-925e-43b292f3c393, name: python3
+[I 13:09:19.692 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 13:13:06.701 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:13:06.701 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 13:13:06.702 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 13:13:06.702 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 13:13:06.702 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 13:13:06.702 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[W 13:13:08.360 NotebookApp] Replacing stale connection: 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 13:13:13.362 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 13:13:13.363 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 13:13:13.399 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 13:13:13.438 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:13:13.468 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 13:13:13.498 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 13:13:13.541 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 13:13:13.580 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 13:33:14.048 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 13:33:14.049 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 13:33:14.049 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 13:33:14.049 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 13:33:14.049 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 13:33:14.049 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 13:33:14.049 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:33:15.117 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 13:33:15.391 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 13:33:15.418 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 13:33:15.459 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 13:33:15.487 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:33:15.516 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 13:33:15.548 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[W 13:34:45.119 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 13:34:45.392 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 13:34:45.420 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 13:34:45.459 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 13:34:45.488 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 13:34:45.517 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 13:34:45.549 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 13:34:50.121 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 13:34:50.393 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 13:34:50.420 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 13:34:50.460 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 13:34:50.489 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:34:50.517 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 13:34:50.550 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 13:44:35.665 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 13:44:35.895 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 13:44:37.010 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 13:44:37.173 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:44:37.212 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 13:44:37.459 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 13:44:37.482 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 13:45:29.368 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 13:45:29.373 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 13:45:29.374 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:45:29.374 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 13:45:29.374 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 13:45:29.374 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 13:45:29.374 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 13:45:30.633 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 13:45:30.917 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 13:45:30.939 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 13:45:30.984 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 13:45:31.003 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:45:31.055 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 13:45:31.092 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[W 13:47:00.634 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 13:47:00.918 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 13:47:00.940 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 13:47:00.984 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 13:47:01.004 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 13:47:01.057 NotebookApp] WebSocket ping timeout after 90002 ms.
+[W 13:47:01.094 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 13:47:05.635 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 13:47:05.919 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 13:47:05.941 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 13:47:05.985 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 13:47:06.005 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 13:47:06.058 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[I 13:47:06.095 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 14:19:08.257 NotebookApp] Restoring connection for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 14:19:08.288 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 14:19:08.596 NotebookApp] Restoring connection for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 14:19:08.774 NotebookApp] Restoring connection for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 14:19:09.024 NotebookApp] Restoring connection for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 14:19:09.201 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 14:19:09.512 NotebookApp] Restoring connection for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[W 14:20:38.258 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 14:20:38.289 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 14:20:38.597 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 14:20:38.775 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 14:20:39.024 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 14:20:39.202 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 14:20:39.513 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 14:20:43.259 NotebookApp] Starting buffering for fdc8194e-5a15-4d71-bbc7-17dedd9ab281:a35ba5fe9fc848c08e0d29586fbcb353
+[I 14:20:43.289 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:5744d650584643a19f3dbf327f54277f
+[I 14:20:43.598 NotebookApp] Starting buffering for 5ed8904f-159b-4c13-8e6a-b19e39bab2f6:addfd7d46fa34e928e5a51355f6282f0
+[I 14:20:43.776 NotebookApp] Starting buffering for fcbf9a5f-34ae-480c-865f-8e990d77ec21:a020e2717107402f8842aa4a60b9c59a
+[I 14:20:44.025 NotebookApp] Starting buffering for 7aba606b-a19d-4959-b6db-e2d88b7a2eea:89361df087b6416689403a9cacf9ea9e
+[I 14:20:44.202 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:a04d903a8f3f435c93abcd4467cd8344
+[I 14:20:44.515 NotebookApp] Starting buffering for c4630262-4c88-40a5-a336-21d220b229da:9b9086fae6984b0b81daf3a45ef43694
+[W 09:35:36.269 NotebookApp] Notebook train-lab-v1-2.ipynb is not trusted
+[W 10:38:30.552 NotebookApp] Replacing stale connection: 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 10:38:35.554 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 10:38:35.556 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[W 12:42:47.160 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 12:44:48.716 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 12:44:48.716 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 12:49:36.456 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 12:51:36.460 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 12:53:36.503 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 12:53:39.736 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 12:53:40.877 NotebookApp] Kernel restarted: 81851549-58a4-4435-bc52-a349083a279f
+[I 12:53:40.884 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 12:53:41.113 NotebookApp] Replaying 3 buffered messages
+[I 12:55:36.459 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 12:56:38.415 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 12:56:38.952 NotebookApp] Kernel restarted: 8b9d5ccc-543f-4489-925e-43b292f3c393
+[I 12:56:38.980 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 12:56:39.433 NotebookApp] Replaying 2 buffered messages
+[I 12:56:42.668 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 12:56:42.797 NotebookApp] Kernel restarted: 8b9d5ccc-543f-4489-925e-43b292f3c393
+[I 12:56:42.803 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 12:56:43.113 NotebookApp] Replaying 3 buffered messages
+[I 12:57:36.496 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 13:01:36.450 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 13:03:36.452 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 13:05:36.502 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 13:07:36.501 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 13:12:18.502 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 13:14:19.640 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[W 13:40:40.885 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 13:40:42.804 NotebookApp] WebSocket ping timeout after 119999 ms.
+[I 13:40:45.887 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 13:40:47.805 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 13:49:34.554 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 13:49:36.534 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 13:51:36.554 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 14:15:36.554 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 14:21:36.564 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 14:23:36.501 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 14:41:37.363 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 15:02:20.624 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 15:19:36.565 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 15:37:36.630 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 15:56:04.891 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 15:57:36.610 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:05:36.571 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:15:36.572 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:17:36.576 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:19:36.576 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:21:36.580 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:23:36.625 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:25:36.627 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:27:36.629 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:29:36.627 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:31:36.630 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:33:36.631 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:35:36.633 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:37:36.635 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:39:36.635 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:41:36.593 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:43:36.637 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:45:38.133 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:48:20.642 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:49:36.596 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:51:36.642 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:53:06.789 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 8b9d5ccc-543f-4489-925e-43b292f3c393 restarted
+[I 16:53:36.647 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:55:36.599 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:57:36.647 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 16:59:30.815 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 8b9d5ccc-543f-4489-925e-43b292f3c393 restarted
+[I 16:59:36.672 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 17:05:36.617 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 17:07:36.609 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 17:09:36.621 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 17:11:19.886 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 17:11:21.529 NotebookApp] Kernel restarted: 8b9d5ccc-543f-4489-925e-43b292f3c393
+[I 17:11:21.567 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 17:11:21.944 NotebookApp] Replaying 3 buffered messages
+[I 17:11:36.619 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 17:13:36.611 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 17:15:36.622 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 17:17:36.625 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 18:18:30.521 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 8b9d5ccc-543f-4489-925e-43b292f3c393 restarted
+[I 18:19:36.655 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 18:21:36.666 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 18:22:12.595 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 8b9d5ccc-543f-4489-925e-43b292f3c393 restarted
+[I 18:23:36.675 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 18:25:36.710 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 18:39:42.012 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 18:39:42.013 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 18:39:43.414 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 18:39:43.747 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 18:41:36.738 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 18:56:27.189 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 19:14:23.923 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 19:30:20.759 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 19:46:20.767 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[W 20:11:43.414 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 20:11:43.747 NotebookApp] WebSocket ping timeout after 119998 ms.
+[I 20:11:48.416 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 20:11:48.748 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 20:13:53.691 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 20:14:04.931 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 20:14:05.962 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 20:14:06.760 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[W 20:15:35.963 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 20:15:36.761 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 20:15:40.964 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 20:15:41.763 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 23:00:09.495 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 23:00:10.553 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[W 23:01:39.495 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 23:01:40.553 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 23:01:44.497 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 23:01:45.555 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 01:00:32.974 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 01:00:33.229 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 01:00:34.173 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[W 01:02:02.975 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 01:02:03.229 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 01:02:07.976 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 01:02:08.230 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 03:01:18.822 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 03:01:18.843 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[W 03:02:48.823 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 03:02:48.844 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 03:02:53.826 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 03:02:53.846 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 07:00:16.677 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 07:00:16.698 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[W 07:01:46.678 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 07:01:46.698 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 07:01:51.680 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 07:01:51.700 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 07:28:30.972 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 07:28:30.999 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[W 07:30:00.972 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 07:30:01.000 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 07:30:05.975 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 07:30:06.000 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 08:03:24.129 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[I 08:03:24.241 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 08:03:31.705 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:8d942bb77a4d4ca8937fdc7ce714e966
+[W 08:03:32.650 NotebookApp] Notebook train-lab-v1-2.ipynb is not trusted
+[I 08:05:33.268 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[W 08:05:33.269 NotebookApp] Notebook train-lab-v1-2.ipynb is not trusted
+[I 08:07:32.994 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[W 08:07:32.994 NotebookApp] Notebook train-lab-v1-2.ipynb is not trusted
+[I 08:09:32.995 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[W 08:09:32.995 NotebookApp] Notebook train-lab-v1-2.ipynb is not trusted
+[I 08:11:47.221 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:f235e5b6cfaa45dc920baa527c1e0a4c
+[I 08:11:47.222 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 08:11:48.260 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:f235e5b6cfaa45dc920baa527c1e0a4c
+[I 08:11:48.283 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[W 08:13:18.261 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 08:13:18.284 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 08:13:23.262 NotebookApp] Starting buffering for 8b9d5ccc-543f-4489-925e-43b292f3c393:f235e5b6cfaa45dc920baa527c1e0a4c
+[I 08:13:23.284 NotebookApp] Starting buffering for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 09:15:52.127 NotebookApp] Restoring connection for 81851549-58a4-4435-bc52-a349083a279f:d8a292947bd346ce835127dbcef54370
+[I 09:15:52.168 NotebookApp] Restoring connection for 8b9d5ccc-543f-4489-925e-43b292f3c393:f235e5b6cfaa45dc920baa527c1e0a4c
