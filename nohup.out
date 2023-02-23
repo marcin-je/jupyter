@@ -6107,3 +6107,424 @@ kernel 8b9d5ccc-543f-4489-925e-43b292f3c393 restarted
 [I 14:54:00.767 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
 [I 14:54:02.579 NotebookApp] Restoring connection for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
 [I 14:54:02.632 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 15:52:51.221 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 15:54:49.631 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:46:49.527 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:54:49.952 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:56:05.198 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:56:49.505 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 18:52:51.659 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 18:52:51.659 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 18:52:52.758 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 18:52:52.770 NotebookApp] Restoring connection for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 19:10:43.104 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 19:10:43.106 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 19:10:44.719 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 19:10:44.730 NotebookApp] Restoring connection for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 21:38:49.637 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 21:42:49.614 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 21:44:49.618 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 21:54:49.642 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 21:56:49.621 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 21:58:49.625 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:00:49.634 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:02:05.892 NotebookApp] Kernel interrupted: 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f
+[I 22:02:49.634 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:03:22.316 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 22:03:22.854 NotebookApp] Kernel restarted: 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f
+[I 22:03:22.874 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 22:03:23.194 NotebookApp] Replaying 3 buffered messages
+[I 22:04:51.380 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:06:53.507 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:08:49.803 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:10:49.973 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:12:49.811 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:16:16.205 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:16:49.646 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:18:52.130 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:24:49.656 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 03:08:31.596 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 03:08:31.597 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 03:08:32.997 NotebookApp] Restoring connection for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 03:08:33.010 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[W 07:14:32.998 NotebookApp] WebSocket ping timeout after 119997 ms.
+[W 07:14:33.011 NotebookApp] WebSocket ping timeout after 119999 ms.
+[I 07:14:38.000 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 07:14:38.012 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 07:17:45.379 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:9b81acdaa55948a6876c01b4d0da0a54
+[W 07:17:54.739 NotebookApp] Notebook xgb gpu test.ipynb is not trusted
+[I 07:17:54.951 NotebookApp] Kernel started: f3930485-2421-4cb5-a98d-ebdce8a43e5e, name: python3
+[W 07:18:59.951 NotebookApp] Notebook ml4f-boostedtrees.ipynb is not trusted
+[I 07:19:00.293 NotebookApp] Kernel started: ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9, name: python3
+[I 07:23:26.896 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 07:58:50.064 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 08:00:50.001 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 08:02:06.375 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 08:02:06.375 NotebookApp] Starting buffering for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 08:02:06.375 NotebookApp] Starting buffering for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 08:02:06.375 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 08:02:07.424 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 08:02:08.150 NotebookApp] Restoring connection for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 08:02:08.170 NotebookApp] Restoring connection for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 08:02:08.217 NotebookApp] Restoring connection for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 08:02:28.709 NotebookApp] Starting buffering for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 08:02:28.709 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 08:02:28.710 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 08:02:28.710 NotebookApp] Starting buffering for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 08:02:30.352 NotebookApp] Restoring connection for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 08:02:30.393 NotebookApp] Restoring connection for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 08:02:30.417 NotebookApp] Restoring connection for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 08:02:30.453 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 08:02:52.184 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 08:42:34.354 NotebookApp] Starting buffering for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 08:42:34.355 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 08:42:34.363 NotebookApp] Starting buffering for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 08:42:34.364 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 08:42:36.222 NotebookApp] Restoring connection for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 08:42:36.254 NotebookApp] Restoring connection for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 08:42:36.270 NotebookApp] Restoring connection for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 08:42:36.303 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[W 08:44:06.225 NotebookApp] WebSocket ping timeout after 90002 ms.
+[W 08:44:06.255 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 08:44:06.271 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 08:44:06.304 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 08:44:11.226 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 08:44:11.256 NotebookApp] Starting buffering for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 08:44:11.271 NotebookApp] Starting buffering for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 08:44:11.305 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 09:01:40.096 NotebookApp] Restoring connection for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 09:02:55.082 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 09:02:55.141 NotebookApp] Restoring connection for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 09:02:55.266 NotebookApp] Restoring connection for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 09:58:12.526 NotebookApp] Starting buffering for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 09:58:12.527 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 09:58:12.527 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 09:58:12.527 NotebookApp] Starting buffering for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 09:58:13.796 NotebookApp] Restoring connection for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 09:58:13.824 NotebookApp] Restoring connection for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 09:58:13.846 NotebookApp] Restoring connection for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 09:58:13.861 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[W 09:59:43.798 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 09:59:43.825 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 09:59:43.847 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 09:59:43.862 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 09:59:48.799 NotebookApp] Starting buffering for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 09:59:48.827 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 09:59:48.848 NotebookApp] Starting buffering for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 09:59:48.862 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 10:03:42.840 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 10:03:45.357 NotebookApp] Restoring connection for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 10:03:45.376 NotebookApp] Restoring connection for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 10:03:45.389 NotebookApp] Restoring connection for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[I 10:53:45.248 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 10:55:45.221 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 10:59:45.395 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:01:45.394 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:03:45.221 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:05:45.216 NotebookApp] Saving file at /train-lab-v3.ipynb
+[E 11:06:38.094 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 89, in post
+        yield maybe_future(km.restart_kernel(kernel_id))
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/dcai/anaconda3/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/dcai/anaconda3/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 313, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 394, in _check_kernel_id
+        raise web.HTTPError(404, f'Kernel does not exist: {kernel_id}')
+    tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: 8b9d5ccc-543f-4489-925e-43b292f3c393)
+[E 11:06:38.095 NotebookApp] {
+      "Host": "dcai2:8888",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://dcai2:8888/notebooks/train-lab-v1-2.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+    }
+[E 11:06:38.095 NotebookApp] 500 POST /api/kernels/8b9d5ccc-543f-4489-925e-43b292f3c393/restart (192.168.0.102) 1.090000ms referer=http://dcai2:8888/notebooks/train-lab-v1-2.ipynb
+[W 11:06:38.104 NotebookApp] 404 DELETE /api/sessions/6001b182-3dc7-4195-bc3a-7ed31c3a397a (192.168.0.102): Session not found: session_id='6001b182-3dc7-4195-bc3a-7ed31c3a397a'
+[W 11:06:38.105 NotebookApp] Session not found: session_id='6001b182-3dc7-4195-bc3a-7ed31c3a397a'
+[W 11:06:38.105 NotebookApp] 404 DELETE /api/sessions/6001b182-3dc7-4195-bc3a-7ed31c3a397a (192.168.0.102) 1.840000ms referer=http://dcai2:8888/notebooks/train-lab-v1-2.ipynb
+[I 11:06:38.138 NotebookApp] Kernel started: 61e2cfb7-744a-47c9-956e-43c1a8535cf8, name: python3
+[I 11:06:52.835 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 11:06:53.365 NotebookApp] Kernel restarted: 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f
+[I 11:06:53.372 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 11:06:53.671 NotebookApp] Replaying 3 buffered messages
+[I 11:07:45.480 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:08:03.153 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:10:03.138 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:14:03.142 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:15:21.652 NotebookApp] Starting buffering for 61e2cfb7-744a-47c9-956e-43c1a8535cf8:f235e5b6cfaa45dc920baa527c1e0a4c
+[I 11:15:22.082 NotebookApp] Kernel restarted: 61e2cfb7-744a-47c9-956e-43c1a8535cf8
+[I 11:15:22.101 NotebookApp] Restoring connection for 61e2cfb7-744a-47c9-956e-43c1a8535cf8:f235e5b6cfaa45dc920baa527c1e0a4c
+[I 11:15:22.387 NotebookApp] Replaying 3 buffered messages
+[I 11:15:34.835 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 11:15:34.962 NotebookApp] Kernel restarted: 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f
+[I 11:15:34.968 NotebookApp] Restoring connection for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 11:15:35.471 NotebookApp] Replaying 3 buffered messages
+[I 11:15:45.222 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:16:05.849 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:17:45.408 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:19:45.409 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:21:45.234 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:23:31.029 NotebookApp] Starting buffering for 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f:f54f706d812c42bd97f9928e8b7b2e08
+[I 11:23:31.032 NotebookApp] Kernel shutdown: 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f
+[I 11:23:45.866 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:24:03.151 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:26:03.152 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:28:03.153 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:30:03.155 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:31:17.865 NotebookApp] Starting buffering for 61e2cfb7-744a-47c9-956e-43c1a8535cf8:f235e5b6cfaa45dc920baa527c1e0a4c
+[I 11:31:17.868 NotebookApp] Kernel shutdown: 61e2cfb7-744a-47c9-956e-43c1a8535cf8
+[E 11:31:28.462 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 89, in post
+        yield maybe_future(km.restart_kernel(kernel_id))
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/dcai/anaconda3/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/dcai/anaconda3/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 313, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 394, in _check_kernel_id
+        raise web.HTTPError(404, f'Kernel does not exist: {kernel_id}')
+    tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: 8d83d1ac-51de-4db1-83e0-4e1f9b0b702f)
+[E 11:31:28.463 NotebookApp] {
+      "Host": "dcai2:8888",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://dcai2:8888/notebooks/train-lab-v3.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+    }
+[E 11:31:28.463 NotebookApp] 500 POST /api/kernels/8d83d1ac-51de-4db1-83e0-4e1f9b0b702f/restart (192.168.0.102) 2.140000ms referer=http://dcai2:8888/notebooks/train-lab-v3.ipynb
+[W 11:31:28.470 NotebookApp] 404 DELETE /api/sessions/fdd42fa5-29d7-4ecf-9331-f1e8df7d697a (192.168.0.102): Session not found: session_id='fdd42fa5-29d7-4ecf-9331-f1e8df7d697a'
+[W 11:31:28.471 NotebookApp] Session not found: session_id='fdd42fa5-29d7-4ecf-9331-f1e8df7d697a'
+[W 11:31:28.471 NotebookApp] 404 DELETE /api/sessions/fdd42fa5-29d7-4ecf-9331-f1e8df7d697a (192.168.0.102) 1.590000ms referer=http://dcai2:8888/notebooks/train-lab-v3.ipynb
+[I 11:31:28.490 NotebookApp] Kernel started: f8bd246d-599b-4212-9c8a-c145b7b91533, name: python3
+[I 11:32:03.417 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:35:45.244 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:36:10.255 NotebookApp] Starting buffering for f8bd246d-599b-4212-9c8a-c145b7b91533:f54f706d812c42bd97f9928e8b7b2e08
+[I 11:36:10.684 NotebookApp] Kernel restarted: f8bd246d-599b-4212-9c8a-c145b7b91533
+[I 11:36:10.707 NotebookApp] Restoring connection for f8bd246d-599b-4212-9c8a-c145b7b91533:f54f706d812c42bd97f9928e8b7b2e08
+[I 11:36:11.211 NotebookApp] Replaying 3 buffered messages
+[I 11:37:45.420 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:39:45.999 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:41:47.336 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:43:46.717 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:47:45.261 NotebookApp] Saving file at /train-lab-v3.ipynb
+[E 11:49:34.184 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 89, in post
+        yield maybe_future(km.restart_kernel(kernel_id))
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/dcai/anaconda3/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/dcai/anaconda3/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 313, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/home/dcai/anaconda3/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 394, in _check_kernel_id
+        raise web.HTTPError(404, f'Kernel does not exist: {kernel_id}')
+    tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: 61e2cfb7-744a-47c9-956e-43c1a8535cf8)
+[E 11:49:34.184 NotebookApp] {
+      "Host": "dcai2:8888",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://dcai2:8888/notebooks/train-lab-v1-2.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+    }
+[E 11:49:34.184 NotebookApp] 500 POST /api/kernels/61e2cfb7-744a-47c9-956e-43c1a8535cf8/restart (192.168.0.102) 1.350000ms referer=http://dcai2:8888/notebooks/train-lab-v1-2.ipynb
+[W 11:49:34.191 NotebookApp] 404 DELETE /api/sessions/3c2d7fe0-ab8b-4a06-acaf-b6a4e0183287 (192.168.0.102): Session not found: session_id='3c2d7fe0-ab8b-4a06-acaf-b6a4e0183287'
+[W 11:49:34.191 NotebookApp] Session not found: session_id='3c2d7fe0-ab8b-4a06-acaf-b6a4e0183287'
+[W 11:49:34.191 NotebookApp] 404 DELETE /api/sessions/3c2d7fe0-ab8b-4a06-acaf-b6a4e0183287 (192.168.0.102) 1.570000ms referer=http://dcai2:8888/notebooks/train-lab-v1-2.ipynb
+[I 11:49:34.223 NotebookApp] Kernel started: 7a96f590-48fe-4221-a055-6e495838543a, name: python3
+[I 11:49:39.946 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:49:45.430 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 11:50:12.657 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:50:16.214 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 7a96f590-48fe-4221-a055-6e495838543a restarted
+[I 11:50:24.578 NotebookApp] Starting buffering for f8bd246d-599b-4212-9c8a-c145b7b91533:f54f706d812c42bd97f9928e8b7b2e08
+[I 11:50:24.588 NotebookApp] Restoring connection for f8bd246d-599b-4212-9c8a-c145b7b91533:f54f706d812c42bd97f9928e8b7b2e08
+[I 11:50:28.880 NotebookApp] Starting buffering for f8bd246d-599b-4212-9c8a-c145b7b91533:f54f706d812c42bd97f9928e8b7b2e08
+[I 11:50:28.884 NotebookApp] Kernel shutdown: f8bd246d-599b-4212-9c8a-c145b7b91533
+[I 11:50:35.985 NotebookApp] Starting buffering for 7a96f590-48fe-4221-a055-6e495838543a:f235e5b6cfaa45dc920baa527c1e0a4c
+[I 11:50:36.123 NotebookApp] Kernel restarted: 7a96f590-48fe-4221-a055-6e495838543a
+[I 11:50:36.145 NotebookApp] Restoring connection for 7a96f590-48fe-4221-a055-6e495838543a:f235e5b6cfaa45dc920baa527c1e0a4c
+[I 11:50:36.356 NotebookApp] Replaying 3 buffered messages
+[I 11:52:03.186 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[W 11:52:40.254 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[I 11:52:40.699 NotebookApp] Kernel started: 1c643b10-93c4-46d5-b8d8-90f90fe7c2db, name: python3
+[I 11:54:03.724 NotebookApp] Saving file at /train-lab-v1-2.ipynb
+[I 11:54:40.611 NotebookApp] Saving file at /train-lab-v1.ipynb
+[W 11:54:40.612 NotebookApp] Notebook train-lab-v1.ipynb is not trusted
+[W 12:27:15.357 NotebookApp] WebSocket ping timeout after 119997 ms.
+[W 12:27:15.377 NotebookApp] WebSocket ping timeout after 119998 ms.
+[W 12:27:15.389 NotebookApp] WebSocket ping timeout after 119998 ms.
+[I 12:27:20.368 NotebookApp] Starting buffering for 2de357cd-0932-44ce-abd9-f00c764d2958:0b94014787314ae98da55f4398d66861
+[I 12:27:20.378 NotebookApp] Starting buffering for ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9:d6b5441fac98468f9e182892fa701dbd
+[I 12:27:20.390 NotebookApp] Starting buffering for f3930485-2421-4cb5-a98d-ebdce8a43e5e:5b295bfaec6c418f8dd03c569ed83770
+[W 12:27:36.145 NotebookApp] WebSocket ping timeout after 119999 ms.
+[W 12:27:41.021 NotebookApp] WebSocket ping timeout after 119999 ms.
+[I 12:27:41.147 NotebookApp] Starting buffering for 7a96f590-48fe-4221-a055-6e495838543a:f235e5b6cfaa45dc920baa527c1e0a4c
+[I 12:27:46.023 NotebookApp] Starting buffering for 1c643b10-93c4-46d5-b8d8-90f90fe7c2db:34231fd37810404d8847e5722da6a77d
+[I 12:31:45.567 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 12:32:54.168 NotebookApp] Kernel shutdown: ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9
+[I 12:32:56.000 NotebookApp] Kernel shutdown: 2de357cd-0932-44ce-abd9-f00c764d2958
+[I 12:32:58.206 NotebookApp] Kernel shutdown: 7a96f590-48fe-4221-a055-6e495838543a
+[I 12:33:00.393 NotebookApp] Kernel shutdown: 1c643b10-93c4-46d5-b8d8-90f90fe7c2db
+[I 12:33:02.864 NotebookApp] Kernel shutdown: f3930485-2421-4cb5-a98d-ebdce8a43e5e
+[W 12:33:07.171 NotebookApp] Notebook train-lab-v3.ipynb is not trusted
+[I 12:33:08.008 NotebookApp] Kernel started: 689a1359-f4aa-44c0-9ea3-c0a32f5268e7, name: python3
+[I 12:33:14.053 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 12:33:14.183 NotebookApp] Kernel restarted: 689a1359-f4aa-44c0-9ea3-c0a32f5268e7
+[I 12:33:14.225 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 12:33:14.483 NotebookApp] Replaying 3 buffered messages
+[I 12:33:47.495 NotebookApp] Saving file at /train-lab-v3.ipynb
+[W 12:36:07.387 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136): Kernel does not exist: ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9
+[W 12:36:07.407 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136) 20.530000ms referer=None
+[W 12:36:07.840 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136): Kernel does not exist: f3930485-2421-4cb5-a98d-ebdce8a43e5e
+[W 12:36:07.840 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136) 1.110000ms referer=None
+[W 12:36:08.009 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136): Kernel does not exist: 2de357cd-0932-44ce-abd9-f00c764d2958
+[W 12:36:08.010 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136) 1.040000ms referer=None
+[W 12:36:09.439 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136): Kernel does not exist: ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9
+[W 12:36:09.439 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136) 1.260000ms referer=None
+[W 12:36:10.669 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136): Kernel does not exist: f3930485-2421-4cb5-a98d-ebdce8a43e5e
+[W 12:36:10.670 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136) 1.210000ms referer=None
+[W 12:36:10.782 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136): Kernel does not exist: 2de357cd-0932-44ce-abd9-f00c764d2958
+[W 12:36:10.782 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136) 1.080000ms referer=None
+[W 12:36:13.499 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136): Kernel does not exist: ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9
+[W 12:36:13.500 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136) 1.260000ms referer=None
+[W 12:36:15.607 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136): Kernel does not exist: f3930485-2421-4cb5-a98d-ebdce8a43e5e
+[W 12:36:15.608 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136) 1.120000ms referer=None
+[W 12:36:15.959 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136): Kernel does not exist: 2de357cd-0932-44ce-abd9-f00c764d2958
+[W 12:36:15.960 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136) 1.360000ms referer=None
+[W 12:36:21.538 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136): Kernel does not exist: ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9
+[W 12:36:21.538 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136) 1.140000ms referer=None
+[W 12:36:24.534 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136): Kernel does not exist: f3930485-2421-4cb5-a98d-ebdce8a43e5e
+[W 12:36:24.534 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136) 1.270000ms referer=None
+[W 12:36:24.725 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136): Kernel does not exist: 2de357cd-0932-44ce-abd9-f00c764d2958
+[W 12:36:24.726 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136) 1.100000ms referer=None
+[W 12:36:33.475 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136): Kernel does not exist: 7a96f590-48fe-4221-a055-6e495838543a
+[W 12:36:33.475 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136) 1.260000ms referer=None
+[W 12:36:35.537 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136): Kernel does not exist: 7a96f590-48fe-4221-a055-6e495838543a
+[W 12:36:35.537 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136) 1.400000ms referer=None
+[W 12:36:37.604 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136): Kernel does not exist: ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9
+[W 12:36:37.604 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136) 9.450000ms referer=None
+[W 12:36:40.492 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136): Kernel does not exist: 7a96f590-48fe-4221-a055-6e495838543a
+[W 12:36:40.492 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136) 1.200000ms referer=None
+[W 12:36:41.935 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136): Kernel does not exist: f3930485-2421-4cb5-a98d-ebdce8a43e5e
+[W 12:36:41.936 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136) 1.050000ms referer=None
+[W 12:36:42.892 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136): Kernel does not exist: 2de357cd-0932-44ce-abd9-f00c764d2958
+[W 12:36:42.893 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136) 1.340000ms referer=None
+[W 12:36:49.489 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136): Kernel does not exist: 7a96f590-48fe-4221-a055-6e495838543a
+[W 12:36:49.490 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136) 1.260000ms referer=None
+[W 12:37:08.576 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136): Kernel does not exist: 7a96f590-48fe-4221-a055-6e495838543a
+[W 12:37:08.576 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136) 1.160000ms referer=None
+[W 12:37:09.649 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136): Kernel does not exist: ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9
+[W 12:37:09.650 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136) 1.060000ms referer=None
+[W 12:37:14.871 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136): Kernel does not exist: f3930485-2421-4cb5-a98d-ebdce8a43e5e
+[W 12:37:14.871 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136) 1.090000ms referer=None
+[W 12:37:25.248 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136): Kernel does not exist: 2de357cd-0932-44ce-abd9-f00c764d2958
+[W 12:37:25.249 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136) 1.250000ms referer=None
+[W 12:37:42.568 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136): Kernel does not exist: 7a96f590-48fe-4221-a055-6e495838543a
+[W 12:37:42.569 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136) 1.510000ms referer=None
+[W 12:38:13.726 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136): Kernel does not exist: ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9
+[W 12:38:13.727 NotebookApp] 404 GET /api/kernels/ffbf83fa-d397-4e9c-950f-5f5d3d5fbac9/channels?session_id=d6b5441fac98468f9e182892fa701dbd (192.168.0.136) 1.040000ms referer=None
+[W 12:38:19.768 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136): Kernel does not exist: f3930485-2421-4cb5-a98d-ebdce8a43e5e
+[W 12:38:19.769 NotebookApp] 404 GET /api/kernels/f3930485-2421-4cb5-a98d-ebdce8a43e5e/channels?session_id=5b295bfaec6c418f8dd03c569ed83770 (192.168.0.136) 1.150000ms referer=None
+[W 12:38:29.475 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136): Kernel does not exist: 2de357cd-0932-44ce-abd9-f00c764d2958
+[W 12:38:29.476 NotebookApp] 404 GET /api/kernels/2de357cd-0932-44ce-abd9-f00c764d2958/channels?session_id=0b94014787314ae98da55f4398d66861 (192.168.0.136) 1.090000ms referer=None
+[W 12:38:47.499 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136): Kernel does not exist: 7a96f590-48fe-4221-a055-6e495838543a
+[W 12:38:47.500 NotebookApp] 404 GET /api/kernels/7a96f590-48fe-4221-a055-6e495838543a/channels?session_id=f235e5b6cfaa45dc920baa527c1e0a4c (192.168.0.136) 1.190000ms referer=None
+[I 12:43:15.457 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 12:45:14.870 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 12:47:13.226 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 12:49:17.744 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 12:51:15.871 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 13:05:19.782 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 13:05:21.887 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[W 13:06:51.889 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 13:06:56.891 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 13:19:25.757 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 13:28:47.769 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 13:54:44.492 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 13:56:45.421 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 14:00:44.486 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 14:02:44.960 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 14:04:44.480 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 14:06:44.475 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 14:10:45.452 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 14:12:44.491 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 14:14:45.423 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 15:22:48.947 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 15:26:49.820 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 15:28:49.699 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 15:30:52.211 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 15:32:50.051 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 15:36:50.089 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 15:38:50.405 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 15:50:50.180 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:06:26.383 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 16:06:27.882 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 16:08:52.615 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:12:51.834 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:14:53.101 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:16:48.744 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:20:52.407 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:24:49.585 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:26:11.640 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:26:50.555 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:27:55.927 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 16:27:58.572 NotebookApp] Kernel restarted: 689a1359-f4aa-44c0-9ea3-c0a32f5268e7
+[I 16:27:58.606 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 16:27:58.906 NotebookApp] Replaying 3 buffered messages
+[I 16:28:50.125 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:30:44.654 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:32:45.808 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:34:45.571 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:36:44.742 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:38:44.855 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:40:44.958 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:44:47.338 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:46:44.806 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:48:44.972 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 16:55:03.703 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 16:55:05.074 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[W 16:56:35.076 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 16:56:40.079 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 18:26:48.752 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[W 18:28:18.755 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 18:28:23.758 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 18:38:35.452 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[W 18:40:05.454 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 18:40:10.458 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 19:37:25.490 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 19:59:19.563 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 689a1359-f4aa-44c0-9ea3-c0a32f5268e7 restarted
+[I 19:59:40.250 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 19:59:40.385 NotebookApp] Kernel restarted: 689a1359-f4aa-44c0-9ea3-c0a32f5268e7
+[I 19:59:40.414 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 19:59:40.612 NotebookApp] Replaying 3 buffered messages
+[I 19:59:55.852 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 20:01:55.781 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 20:03:55.754 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 20:05:55.750 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 20:07:55.763 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 20:09:55.778 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 21:20:28.558 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 21:20:31.044 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[W 21:46:01.048 NotebookApp] WebSocket ping timeout after 119999 ms.
+[I 21:46:06.050 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 21:49:13.798 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 21:49:37.358 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 21:51:37.003 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 21:53:37.226 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 21:55:37.016 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 21:57:38.626 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 21:59:37.097 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:01:42.086 NotebookApp] Saving file at /train-lab-v3.ipynb
+[I 22:37:44.659 NotebookApp] Creating new notebook in 
+[I 22:37:46.343 NotebookApp] Kernel started: 0e9539ff-d3bd-4e28-8a5f-994a4c67c5dc, name: python3
