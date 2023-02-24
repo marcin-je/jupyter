@@ -6530,3 +6530,34 @@ kernel 689a1359-f4aa-44c0-9ea3-c0a32f5268e7 restarted
 [I 22:37:46.343 NotebookApp] Kernel started: 0e9539ff-d3bd-4e28-8a5f-994a4c67c5dc, name: python3
 [I 22:39:04.926 NotebookApp] Starting buffering for 0e9539ff-d3bd-4e28-8a5f-994a4c67c5dc:d2b6df2abbf0486a846979d7de802766
 [I 22:39:08.500 NotebookApp] Kernel shutdown: 0e9539ff-d3bd-4e28-8a5f-994a4c67c5dc
+[I 22:46:11.042 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 22:46:12.195 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[W 22:47:42.198 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 22:47:47.201 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 00:46:55.678 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[W 00:48:25.679 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 00:48:30.680 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 00:49:29.567 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[W 00:51:59.568 NotebookApp] WebSocket ping timeout after 119994 ms.
+[I 00:52:04.569 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 02:50:28.381 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[W 02:51:58.382 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 02:52:03.384 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 04:51:17.776 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[W 04:52:47.779 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 04:52:52.781 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 07:43:51.859 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 07:43:54.637 NotebookApp] Starting buffering for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[I 07:43:55.759 NotebookApp] Restoring connection for 689a1359-f4aa-44c0-9ea3-c0a32f5268e7:3f441770c42f42d084f712d8eab98ab8
+[W 14:14:11.027 NotebookApp] Forbidden
+[W 14:14:11.028 NotebookApp] 403 GET /api/kernelspecs?1677248051015 (192.168.0.136) 0.560000ms referer=None
+[W 14:14:12.061 NotebookApp] Forbidden
+[W 14:14:12.062 NotebookApp] 403 GET /api/kernels?1677248051020 (192.168.0.136) 10.680000ms referer=None
+[W 14:14:14.041 NotebookApp] Forbidden
+[W 14:14:14.042 NotebookApp] 403 GET /api/kernels?1677248051022 (192.168.0.136) 0.580000ms referer=None
+[W 14:14:17.046 NotebookApp] Forbidden
+[W 14:14:17.046 NotebookApp] 403 GET /api/sessions?1677248051023 (192.168.0.136) 0.580000ms referer=None
+[W 14:14:18.060 NotebookApp] Forbidden
+[W 14:14:18.061 NotebookApp] 403 GET /api/kernelspecs?1677248051048 (192.168.0.136) 1.930000ms referer=None
+[W 14:14:22.042 NotebookApp] Forbidden
+[W 14:14:22.043 NotebookApp] 403 GET /api/kernels?1677248054285 (192.168.0.136) 0.810000ms referer=None
