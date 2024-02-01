@@ -52,3 +52,30 @@
 
  11-11-2023 09:19:55:256 [pid=1156 tid=1156] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
  11-11-2023 09:19:55:256 [pid=1156 tid=1156] NOTICE  cufio-drv:705 running in compatible mode
+ 11-11-2023 15:23:09:694 [pid=147 tid=147] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 11-11-2023 15:23:09:694 [pid=147 tid=147] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 11-11-2023 15:23:09:694 [pid=147 tid=147] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 11-11-2023 15:23:09:694 [pid=147 tid=147] NOTICE  cufio-drv:705 running in compatible mode
+ 11-11-2023 18:59:39:275 [pid=43 tid=43] NOTICE  cufio-drv:705 running in compatible mode
+ 11-11-2023 19:00:23:481 [pid=189 tid=189] NOTICE  cufio-drv:705 running in compatible mode
+ 11-11-2023 19:05:33:167 [pid=364 tid=364] NOTICE  cufio-drv:705 running in compatible mode
+ 11-11-2023 19:15:58:604 [pid=649 tid=649] NOTICE  cufio-drv:705 running in compatible mode
+ 11-11-2023 19:17:43:714 [pid=787 tid=787] NOTICE  cufio-drv:705 running in compatible mode
+ 11-11-2023 19:20:45:696 [pid=966 tid=966] NOTICE  cufio-drv:705 running in compatible mode
+ 11-11-2023 20:32:15:307 [pid=1364 tid=1364] NOTICE  cufio-drv:705 running in compatible mode
+ 11-11-2023 22:00:05:5 [pid=1678 tid=1678] NOTICE  cufio-drv:705 running in compatible mode
+ 11-11-2023 22:02:37:55 [pid=1859 tid=1859] NOTICE  cufio-drv:705 running in compatible mode
+ 12-11-2023 11:06:15:354 [pid=2367 tid=2367] NOTICE  cufio-drv:705 running in compatible mode
+ 12-11-2023 11:24:07:903 [pid=2611 tid=2611] NOTICE  cufio-drv:705 running in compatible mode
+ 12-11-2023 17:43:22:710 [pid=3254 tid=3254] NOTICE  cufio-drv:705 running in compatible mode
+ 13-11-2023 11:18:28:848 [pid=4928 tid=4928] NOTICE  cufio-drv:705 running in compatible mode
+ 14-11-2023 11:14:40:107 [pid=2774 tid=2774] NOTICE  cufio-drv:705 running in compatible mode
+ 22-11-2023 09:25:57:708 [pid=64 tid=64] NOTICE  cufio-drv:705 running in compatible mode
+ 22-11-2023 09:43:42:908 [pid=288 tid=288] NOTICE  cufio-drv:705 running in compatible mode
+ 22-11-2023 10:06:28:826 [pid=720 tid=720] NOTICE  cufio-drv:705 running in compatible mode
+ 22-11-2023 10:26:17:777 [pid=1007 tid=1007] NOTICE  cufio-drv:705 running in compatible mode
+ 22-11-2023 13:17:46:761 [pid=6661 tid=6661] NOTICE  cufio-drv:705 running in compatible mode
+ 22-11-2023 20:31:07:771 [pid=41826 tid=41826] NOTICE  cufio-drv:705 running in compatible mode
+ 22-11-2023 20:32:06:548 [pid=41969 tid=41969] NOTICE  cufio-drv:705 running in compatible mode

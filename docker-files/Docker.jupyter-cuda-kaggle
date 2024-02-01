@@ -1,0 +1,26 @@
+FROM gcr.io/kaggle-gpu-images/python:latest
+
+USER root
+
+RUN git clone --recursive https://github.com/microsoft/LightGBM \
+    && cd LightGBM \
+    && sh ./build-python.sh install --cuda
+
+RUN deluser jupyter
+RUN useradd -rm -d /home/ubuntu -s /bin/bash -g root -G sudo -u 1000 ubuntu
+RUN  chown -R ubuntu: /opt/conda/share/jupyter
+RUN ls -la /root/.local
+USER ubuntu
+WORKDIR /home/ubuntu
+ENV PYTHONUSERBASE=/home/ubuntu/.local
+#ENV PATH=/home/ubuntu/.local/bin:$PATH
+
+#RUN python3 -m pip install -U tensorflow[and-cuda] xgboost==2.0.1
+#USER root
+RUN python3 -m pip install --user ipywidgets==7.7.5 git+https://github.com/datacentric-ai/Boruta-Shap@master pygwalker
+USER ubuntu
+
+RUN mkdir /home/ubuntu/notebooks
+#ENV PYTHONUSERBASE=/home/ubuntu/.local
+
+CMD [ "sh", "-c", "jupyter-lab --notebook-dir=/home/ubuntu/notebooks --ip=0.0.0.0 --no-browser --NotebookApp.token='' --NotebookApp.allow_origin='*' --NotebookApp.base_url=\"${NB_PREFIX:-/}\"" ]
